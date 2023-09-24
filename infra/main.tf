@@ -23,7 +23,7 @@ locals {
   image_uri      = "127293717875.dkr.ecr.us-east-1.amazonaws.com/plotly"
 }
 
-variable "IMAG_TAG" {}
+variable "IMAGE_TAG" {}
 
 provider "aws" {
   region = "us-east-1" # Feel free to change this
