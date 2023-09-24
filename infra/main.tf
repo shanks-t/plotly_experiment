@@ -1,6 +1,10 @@
 terraform {
-  required_version = "~> 1.3"
-
+  required_version = "~> 1.4"
+  backend "s3" {
+    bucket = "plotly-ds07"
+    key    = "state/terraform.tfstate"
+    region = "us-east-1"
+  }
   required_providers {
     aws = {
       source = "hashicorp/aws"
@@ -19,7 +23,7 @@ locals {
   image_uri      = "127293717875.dkr.ecr.us-east-1.amazonaws.com/plotly"
 }
 
-variable "IMAG_TAG" {}
+variable "IMAGE_TAG" {}
 
 provider "aws" {
   region = "us-east-1" # Feel free to change this
@@ -227,7 +231,7 @@ resource "aws_ecs_task_definition" "this" {
       { name = "MY_INPUT_ENV_VAR", value = "terraform-modified-env-var" }
     ],
     essential    = true,
-    image        = "${local.image_uri}:${IMAGE_TAG}",
+    image        = "${local.image_uri}:${var.IMAGE_TAG}",
     name         = local.container_name,
     portMappings = [{ containerPort = local.container_port }],
     logConfiguration = {

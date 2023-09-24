@@ -1,49 +1,52 @@
-# Import packages
-from dash import Dash, html, dash_table, dcc
+from dash import Dash, html, dash_table, dcc, callback, Output, Input
 import pandas as pd
 import plotly.express as px
+import dash_bootstrap_components as dbc
 
+column_1 = 'GDP_Per_Capita'
+column_2 ='total_fertility'
+column_3 = 'birth_rate_per_thousand'
 # Incorporate data
 df = pd.read_csv('./data/merged_drop_na.csv')
-
-# Calculate GDP change
-# Grouping by country means subsequent operations will be performed for each country individually
-# GDP.apply() means we are taking the value for GDP_Per_Capita and using it for each country as x in our lambda function, 
-# which takes the first and last values using integer location, since we are grouping by GDP we can use iloc[0] to grab first value and subtracting
-# that from the last value iloc[-1]
-
-gdp_change = df.groupby('country')['GDP_Per_Capita'].apply(lambda x: x.iloc[-1] - x.iloc[0])
-
-# Top 5 countries with greatest positive change
-top_positive = gdp_change.nlargest(5).index.tolist()
-# Top 5 countries with greatest negative change
-top_negative = gdp_change.nsmallest(5).index.tolist()
-
-positive_df = df[df['country'].isin(top_positive)]
-
-
-# Initialize the app
-app = Dash(__name__)
+df = df.round(2)
+# Initialize the app - incorporate a Dash Bootstrap theme
+external_stylesheets = [dbc.themes.CERULEAN]
+app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 # App layout
-app.layout = html.Div([
-    dcc.Graph(
-        id='line-plot',
-        figure={
-            'data': [
-                {
-                    'x': positive_df[positive_df['country'] == country]['year'],
-                    'y': positive_df[positive_df['country'] == country]['total_fertility'],
-                    'name': country,
-                    'mode': 'lines',
-                } for country in positive_df['country'].unique()
-            ],
-            'layout': {
-                'title': 'Fertility Rate Over Time for Countries with Greatest Negative Change in GDP'
-            }
-        }
-    )
-])
+app.layout = dbc.Container([
+    dbc.Row([
+        html.Div('My First App with Data, Graph, and Controls', className="text-primary text-center fs-3")
+    ]),
+
+    dbc.Row([
+        dbc.RadioItems(options=[{"label": x, "value": x} for x in [column_1, column_2, column_3]],
+                       value=column_1,
+                       inline=True,
+                       id='radio-buttons-final')
+    ]),
+
+    dbc.Row([
+        dbc.Col([
+            dash_table.DataTable(data=df.to_dict('records'), page_size=12, style_table={'overflowX': 'auto'})
+        ], width=6),
+
+        dbc.Col([
+            dcc.Graph(figure={}, id='my-first-graph-final')
+        ], width=6),
+    ]),
+
+], fluid=True)
+
+# Add controls to build the interaction
+@callback(
+    Output(component_id='my-first-graph-final', component_property='figure'),
+    Input(component_id='radio-buttons-final', component_property='value')
+)
+def update_graph(col_chosen):
+    fig = px.histogram(df, x='country', y=col_chosen, histfunc='avg')
+    return fig
+
 
 server = app.server
 
