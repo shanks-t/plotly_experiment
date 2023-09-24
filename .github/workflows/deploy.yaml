@@ -47,27 +47,27 @@ jobs:
 
     - name: Terraform fmt
       run: |
-        cd /infra 
+        cd infra 
         terraform fmt
 
     - name: Terraform Init
       run: |
-        cd /infra
+        cd infra
         terraform init
     
     - name: Terraform Validate
       run: |
-        cd /infra 
+        cd infra 
         terraform validate
 
     - name: Terraform Plan
       run: |
-        cd /infra 
+        cd infra 
         terraform plan -var="IMAGE_TAG=${{ steps.prep.outputs.tag }}"
 
     - name: Terraform Apply
       run: |
-        cd /infra 
+        cd infra 
         terraform apply -var="IMAGE_TAG=${{ steps.prep.outputs.tag }}" -auto-approve
 
 
