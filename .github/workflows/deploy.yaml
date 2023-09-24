@@ -7,8 +7,7 @@ on:
         description: 'Docker Image Version'     
         required: false
         default: ''
- env:
-  AWS_REGION: "us-east-1"
+
   
  permissions:
   id-token: write # This is required for requesting the JWT
@@ -18,6 +17,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
+  env:
+  AWS_REGION: "us-east-1"
+  
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
