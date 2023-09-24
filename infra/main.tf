@@ -1,5 +1,5 @@
 terraform {
-  required_version = "~> 1.3"
+  required_version = "~> 1.4"
   backend "s3" {
     bucket = "plotly-ds07"
     key    = "state/terraform.tfstate"
