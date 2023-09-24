@@ -47,6 +47,5 @@ def update_graph(col_chosen):
     fig = px.histogram(df, x='country', y=col_chosen, histfunc='avg')
     return fig
 
-
 server = app.server
 
