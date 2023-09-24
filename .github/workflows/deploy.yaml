@@ -68,6 +68,7 @@ jobs:
     - name: Terraform Apply
       run: |
         cd infra 
+        echo "${{ steps.prep.outputs.tag }}" 
         terraform apply -var="IMAGE_TAG=${{ steps.prep.outputs.tag }}" -auto-approve
 
 
