@@ -1,7 +1,9 @@
 name: Build and Push to ECR
 
 on:
-  merge:
+  push:
+    branches:
+     - main
     paths:
       - 'app/**'
 
