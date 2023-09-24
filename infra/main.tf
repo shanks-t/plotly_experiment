@@ -231,7 +231,7 @@ resource "aws_ecs_task_definition" "this" {
       { name = "MY_INPUT_ENV_VAR", value = "terraform-modified-env-var" }
     ],
     essential    = true,
-    image        = local.image_uri + ":" + var.IMAGE_TAG,
+    image        = "${local.image_uri}:${var.IMAGE_TAG}",
     name         = local.container_name,
     portMappings = [{ containerPort = local.container_port }],
     logConfiguration = {
