@@ -38,7 +38,7 @@ jobs:
         if [ -z "$DOCKER_TAG" ]; then
           DOCKER_TAG=${GITHUB_SHA::4}
         fi
-        echo ::set-output name=tag::${DOCKER_TAG}
+        echo "{name}={tag}" >> $GITHUB_OUTPUT
 
     - name: Setup Terraform
       uses: hashicorp/setup-terraform@v1
