@@ -1,0 +1,30 @@
+# Local Terraform directories
+**/.terraform/
+.terraform.lock.hcl
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Backup files
+*.backup
+
+# Ignore any secrets
+secrets.json
+credentials.json
+
+# Terraform variables files (optional, depends on your use case)
+*.tfvars
+
+# Logs
+*.log
+
+# Additional common directories to ignore
+.git/
+.cache/
+tmp/
+
+tfplan
+
+# Python
+
+.venv/**

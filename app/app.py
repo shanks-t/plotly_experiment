@@ -7,7 +7,6 @@ import plotly.express as px
 df = pd.read_csv('./data/merged_drop_na.csv')
 
 # Calculate GDP change
-
 # Grouping by country means subsequent operations will be performed for each country individually
 # GDP.apply() means we are taking the value for GDP_Per_Capita and using it for each country as x in our lambda function, 
 # which takes the first and last values using integer location, since we are grouping by GDP we can use iloc[0] to grab first value and subtracting
