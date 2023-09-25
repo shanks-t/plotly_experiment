@@ -45,5 +45,5 @@ jobs:
         IMAGE_TAG: ${{ steps.compute-tag.outputs.short_sha }}
       run: |
         ls
-        docker build -f ./dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG app/
+        docker build -f ./dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
