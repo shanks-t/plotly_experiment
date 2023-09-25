@@ -23,7 +23,7 @@ jobs:
 
     - name: Compute IMAGE_TAG from GITHUB_SHA
       id: compute-tag
-      run: echo "name=short_sha::${GITHUB_SHA:0:4}" >> $GITHUB_OUTPUT
+      run: echo "short_sha=${GITHUB_SHA:0:4}" >> $GITHUB_OUTPUT
 
 
     - name: Configure AWS credentials
