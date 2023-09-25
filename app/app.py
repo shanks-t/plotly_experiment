@@ -6,6 +6,7 @@ import dash_bootstrap_components as dbc
 column_1 = 'GDP_Per_Capita'
 column_2 ='total_fertility'
 column_3 = 'birth_rate_per_thousand'
+
 # Incorporate data
 df = pd.read_csv('./data/merged_drop_na.csv')
 df = df.round(2)
