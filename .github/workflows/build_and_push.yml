@@ -1,8 +1,7 @@
 name: Build and Push to ECR
 
 on:
-  workflow_dispatch:
-  # push:
+  push:
     branches:
      - main
     paths:
