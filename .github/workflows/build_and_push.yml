@@ -47,3 +47,6 @@ jobs:
         ls
         docker build -f ./dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
         DOCKER_BUILDKIT=0 docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+
+    - name: Get tag Output
+      run: echo ${{ steps.compute-tag.outputs.short_sha }}
