@@ -25,7 +25,6 @@ jobs:
       id: compute-tag
       run: echo "short_sha=${GITHUB_SHA:0:4}" >> $GITHUB_OUTPUT
 
-
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v3
       with:
