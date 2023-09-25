@@ -5,7 +5,7 @@ on:
     inputs:
       version:
         description: 'Docker Image Version'     
-        required: false
+        required: true
         default: ''
 
 permissions:
@@ -31,15 +31,6 @@ jobs:
         role-duration-seconds: 1200
         aws-region: ${{ env.AWS_REGION }}
 
-    - name: Determine Docker Tag
-      id: prep
-      run: |
-        DOCKER_TAG=${{ github.event.inputs.version }}
-        if [ -z "$DOCKER_TAG" ]; then
-          DOCKER_TAG=${GITHUB_SHA::4}
-        fi
-        echo "{name}={tag}" >> $GITHUB_OUTPUT
-
     - name: Setup Terraform
       uses: hashicorp/setup-terraform@v2
       with:
@@ -63,12 +54,12 @@ jobs:
     - name: Terraform Plan
       run: |
         cd infra 
-        terraform plan -var="IMAGE_TAG=${{ steps.prep.outputs.tag }}"
+        terraform plan -var="IMAGE_TAG=${{ github.event.inputs.version }}"
 
     - name: Terraform Apply
       run: |
         cd infra 
-        echo "${{ steps.prep.outputs.tag }}" 
-        terraform apply -var="IMAGE_TAG=${{ steps.prep.outputs.tag }}" -auto-approve
+        echo "${{ github.event.inputs.version }}" 
+        terraform apply -var="IMAGE_TAG=${{ github.event.inputs.version }}" -auto-approve
 
 
