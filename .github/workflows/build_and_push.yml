@@ -1,8 +1,7 @@
 name: Build and Push to ECR
 
 on:
-  workflow_dispatch:
-  # push:
+  push:
     branches:
      - main
     paths:
@@ -21,24 +20,30 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
+    - name: Compute IMAGE_TAG from GITHUB_SHA
+      id: compute-tag
+      run: echo "short_sha=${GITHUB_SHA:0:4}" >> $GITHUB_OUTPUT
+
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v3
       with:
         role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
         role-session-name: plotly-gh-actions
-        role-duration-seconds: 600 
+        role-duration-seconds: 900 
         aws-region: ${{ env.AWS_REGION }}
 
     - name: Login to Amazon ECR
       id: login-ecr
       uses: aws-actions/amazon-ecr-login@v1
+      with:
+        mask-password: true
 
-    
     - name: Build, tag, and push image to Amazon ECR
       env:
         ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
         ECR_REPOSITORY: "plotly"
-        IMAGE_TAG: ${GITHUB_SHA::4}
+        IMAGE_TAG: ${{ steps.compute-tag.outputs.short_sha }}
       run: |
-        docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG app/
-        docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+        ls
+        docker build -f ./dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
+        DOCKER_BUILDKIT=0 docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
