@@ -49,4 +49,3 @@ def update_graph(col_chosen):
     return fig
 
 server = app.server
-
