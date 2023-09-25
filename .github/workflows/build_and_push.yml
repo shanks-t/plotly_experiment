@@ -44,5 +44,6 @@ jobs:
         ECR_REPOSITORY: "plotly"
         IMAGE_TAG: ${{ steps.compute-tag.outputs.short_sha }}
       run: |
-        docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG app/
+        pwd
+        docker build -f ./dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG app/
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
