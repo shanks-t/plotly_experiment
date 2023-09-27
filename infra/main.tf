@@ -1,3 +1,8 @@
+# TODO: ADD DNS name, 
+# add HTTPS certs, 
+# modularize resources to that they are well organized andeasy to understand 
+# consider what other services/architectures that can allow adding features to app 
+
 terraform {
   required_version = "~> 1.4"
   backend "s3" {
@@ -14,7 +19,7 @@ terraform {
 
 locals {
   container_name = "plotly"
-  container_port = 8080 # ! Must be same EXPORE port from our Dockerfile
+  container_port = 8080 # ! Must be same EXPOSED port from our Dockerfile
   example        = "plotly-example"
   image_uri      = "127293717875.dkr.ecr.us-east-1.amazonaws.com/plotly"
 }
@@ -22,14 +27,13 @@ locals {
 variable "IMAGE_TAG" {}
 
 provider "aws" {
-  region = "us-east-1" # Feel free to change this
+  region = "us-east-1" 
 
   default_tags {
     tags = { example = local.example }
   }
 }
 
-# * Give Docker permission to pusher Docker images to AWS
 data "aws_caller_identity" "this" {}
 data "aws_ecr_authorization_token" "this" {}
 data "aws_region" "this" {}
@@ -38,8 +42,8 @@ data "aws_region" "this" {}
 # * Create an AWS Virtual Private Cloud (VPC).
 resource "aws_vpc" "this" { cidr_block = "10.0.0.0/16" }
 
-# * Create Security Groups that will allow our future resources to make and receive
-# * requests from the internet (e.g. people can visit our hello world application).
+# * Create Security Groups that will allow future resources to make and receive
+# * requests from the internet (e.g. people can visit our application).
 resource "aws_security_group" "http" {
   description = "Permit incoming HTTP traffic"
   name        = "http"
@@ -89,7 +93,7 @@ resource "aws_security_group" "ingress_api" {
   }
 }
 
-# * AWS requires us to use multiple Availability Zones and we only want to use
+# * AWS requires the use multiple Availability Zones and we only want to use
 # * ones the are up and running so we find those ones here.
 data "aws_availability_zones" "available" { state = "available" }
 
@@ -98,7 +102,7 @@ data "aws_availability_zones" "available" { state = "available" }
 resource "aws_internet_gateway" "this" { vpc_id = resource.aws_vpc.this.id }
 
 # * Create public subnetworks (Public Subnets) that are exposed to the interent
-# * so that we can make and take requests.
+# * to make and take requests.
 resource "aws_route_table" "public" { vpc_id = resource.aws_vpc.this.id }
 resource "aws_route" "public" {
   destination_cidr_block = "0.0.0.0/0"
@@ -113,14 +117,13 @@ resource "aws_subnet" "public" {
   vpc_id            = resource.aws_vpc.this.id
 }
 resource "aws_route_table_association" "public" {
-  # https://github.com/hashicorp/terraform/issues/22476#issuecomment-547689853
   for_each = { for k, v in resource.aws_subnet.public : k => v.id }
 
   route_table_id = resource.aws_route_table.public.id
   subnet_id      = each.value
 }
 
-# * Eventually we will make private subnetworks (Private Subnets) that will
+# *  make private subnetworks (Private Subnets) that will
 # * need to connect to external websites on the internet. To do this, we must
 # * create a NAT Gateway that will route those requests from our Private Subnet
 # * through our Public Subnets to actually reach those external websites.
@@ -133,7 +136,7 @@ resource "aws_nat_gateway" "this" {
 }
 
 # * Create Private Subnets on our VPC. This acts like an isolated sandbox
-# * that we will run our future ECS Service inside of. Any requests to and
+# * the ECS Service runs inside of. Any requests to and
 # * from the broader internet will be filtered throught our Public Subnets
 # * and the NAT Gateway.
 resource "aws_route_table" "private" { vpc_id = resource.aws_vpc.this.id }
@@ -157,10 +160,8 @@ resource "aws_route_table_association" "private" {
   subnet_id      = each.value
 }
 
-# * Step 4 - Setting up our Application Load Balancers to manage incoming internet traffic.
 # * Create an AWS Application Load Balancer that accepts HTTP requests (on port 80) and
-# * forwards those requests to port 8080 (our container port) on the VPC where we will
-# * eventually run our container.
+# * forwards those requests to port 8080 (container port) on the VPC 
 resource "aws_lb" "this" {
   load_balancer_type = "application"
 
@@ -193,15 +194,12 @@ resource "aws_lb_listener" "this" {
   }
 }
 
-# * Step 5 - Create our ECS Cluster that our ECS Service will run inside of.
 resource "aws_ecs_cluster" "this" { name = "${local.example}-cluster" }
 resource "aws_ecs_cluster_capacity_providers" "this" {
   capacity_providers = ["FARGATE"]
   cluster_name       = resource.aws_ecs_cluster.this.name
 }
 
-# * Step 6 - Create our AWS ECS Task Definition which tells ECS how to run our
-# * container (from our Docker Image).
 data "aws_iam_policy_document" "this" {
   version = "2012-10-17"
 
@@ -232,8 +230,8 @@ resource "aws_ecs_task_definition" "this" {
     logConfiguration = {
       logDriver = "awslogs",
       options = {
-        "awslogs-region"        = "us-east-1", # Change this to your region
-        "awslogs-group"         = "plotly",    # Change this to your CloudWatch Log Group name
+        "awslogs-region"        = "us-east-1", 
+        "awslogs-group"         = "plotly",     
         "awslogs-stream-prefix" = "ecs"
       }
     }
@@ -250,7 +248,6 @@ resource "aws_ecs_task_definition" "this" {
 }
 
 
-# * Step 7 - Run our application.
 resource "aws_ecs_service" "this" {
   cluster         = resource.aws_ecs_cluster.this.id
   desired_count   = 1
@@ -277,6 +274,6 @@ resource "aws_ecs_service" "this" {
   }
 }
 
-# * Output the URL of our Application Load Balancer so that we can connect to
-# * our application running inside  ECS once it is up and running.
+# * Output the URL of Application Load Balancer to connect to
+# * the application running inside  ECS
 output "lb_url" { value = "http://${resource.aws_lb.this.dns_name}" }
