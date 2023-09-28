@@ -236,7 +236,7 @@ resource "aws_ecs_task_definition" "this" {
       }
     }
   }])
-  cpu                      = 256
+  cpu                      = 512
   execution_role_arn       = aws_iam_role.this.arn
   family                   = "family-of-${local.example}-tasks"
   memory                   = 512
