@@ -10,6 +10,7 @@ COPY requirements.txt /app
 # Install required packages
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Copy the application to the image's workdir
 COPY ./app /app
 
 # Command to run the application
