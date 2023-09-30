@@ -236,10 +236,10 @@ resource "aws_ecs_task_definition" "this" {
       }
     }
   }])
-  cpu                      = 2048
+  cpu                      = 256
   execution_role_arn       = aws_iam_role.this.arn
   family                   = "family-of-${local.example}-tasks"
-  memory                   = 4096
+  memory                   = 512
   network_mode             = "awsvpc"
   requires_compatibilities = ["FARGATE"]
   runtime_platform {
@@ -250,7 +250,7 @@ resource "aws_ecs_task_definition" "this" {
 
 resource "aws_ecs_service" "this" {
   cluster         = resource.aws_ecs_cluster.this.id
-  desired_count   = 2
+  desired_count   = 1
   launch_type     = "FARGATE"
   name            = "${local.example}-service"
   task_definition = resource.aws_ecs_task_definition.this.arn
