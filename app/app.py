@@ -3,27 +3,22 @@ import plotly.express as px
 
 import pandas as pd
 
-column_1 = 'GDP_Per_Capita'
-column_2 ='total_fertility'
-column_3 = 'birth_rate_cap'
-column_4 = 'cont'
-column_5 = 'life_exp'
-column_6 = 'age_childbear'
-
-# Incorporate data
 df = pd.read_csv('./data/indicators.csv')
 df = df.sort_values(by=['country', 'year'])
 df = df.round(2)
-# Initialize the app - incorporate a Dash Bootstrap theme
+
 app = Dash(__name__)
 
 app.layout = html.Div([
     html.Div([
+        
+        html.H1('Hey Guys! Checkout out this data, poke around, tell me what you see', style={'textAlign': 'center'}), 
 
         html.Div([
+            html.Label('Pick the data you\'d like to see on the X-axis:'),
             dcc.Dropdown(
                 df['Indicator Name'].unique(),
-                'life_exp',
+                'Life Expectancy',
                 id='crossfilter-xaxis-column',
             ),
             dcc.RadioItems(
@@ -36,9 +31,10 @@ app.layout = html.Div([
         style={'width': '49%', 'display': 'inline-block'}),
 
         html.Div([
+            html.Label('Pick the data you\'d like to see on the Y-axis:'),
             dcc.Dropdown(
                 df['Indicator Name'].unique(),
-                'GDP_Per_Capita',
+                'GDP Per Capita',
                 id='crossfilter-yaxis-column'
             ),
             dcc.RadioItems(
@@ -63,17 +59,17 @@ app.layout = html.Div([
         dcc.Graph(id='y-time-series'),
     ], style={'display': 'inline-block', 'width': '49%'}),
 
-    html.Div(dcc.Slider(
-
+    html.Div([
+        html.Label('Select Year:', style={'font-weight': 'bold'}),
+        dcc.Slider(
         df['year'].min(),
         df['year'].max(),
         step=None,
         id='crossfilter-year--slider',
         value=df['year'].max(),
         marks={str(year): str(year) for year in sorted(df['year'].unique())}
-    ), style={'width': '49%', 'padding': '0px 20px 20px 20px'})
+)], style={'width': '70%', 'margin': '0 auto'})
 ])
-
 
 @callback(
     Output('crossfilter-indicator-scatter', 'figure'),
@@ -144,77 +140,5 @@ def update_y_timeseries(hoverData, yaxis_column_name, axis_type):
     dff = df[df['country'] == hoverData['points'][0]['customdata']]
     dff = dff[dff['Indicator Name'] == yaxis_column_name]
     return create_time_series(dff, axis_type, yaxis_column_name)
-
-# app.layout = html.Div([
-#     html.Div([
-
-#         html.Div([
-#             dcc.Dropdown(
-#                 df['Indicator Name'].unique(),
-#                 'GDP_Per_Capita',
-#                 id='xaxis-column'
-#             ),
-#             dcc.RadioItems(
-#                 ['Linear', 'Log'],
-#                 'Linear',
-#                 id='xaxis-type',
-#                 inline=True
-#             )
-#         ], style={'width': '48%', 'display': 'inline-block'}),
-
-#         html.Div([
-#             dcc.Dropdown(
-#                 df['Indicator Name'].unique(),
-#                 'life_exp',
-#                 id='yaxis-column'
-#             ),
-#             dcc.RadioItems(
-#                 ['Linear', 'Log'],
-#                 'Linear',
-#                 id='yaxis-type',
-#                 inline=True
-#             )
-#         ], style={'width': '48%', 'float': 'right', 'display': 'inline-block'})
-#     ]),
-
-#     dcc.Graph(id='indicator-graphic'),
-
-#     dcc.Slider(
-#         df['year'].min(),
-#         df['year'].max(),
-#         step=None,
-#         id='year--slider',
-#         value=df['year'].max(),
-#         marks={str(year): str(year) for year in df['year'].unique()},
-
-#     )
-# ])
-
-
-# @callback(
-#     Output('indicator-graphic', 'figure'),
-#     Input('xaxis-column', 'value'),
-#     Input('yaxis-column', 'value'),
-#     Input('xaxis-type', 'value'),
-#     Input('yaxis-type', 'value'),
-#     Input('year--slider', 'value'))
-# def update_graph(xaxis_column_name, yaxis_column_name,
-#                  xaxis_type, yaxis_type,
-#                  year_value):
-#     dff = df[df['year'] == year_value]
-
-#     fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
-#                      y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
-#                      hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['country'] + ' ' + str(year_value))
-
-#     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
-
-#     fig.update_xaxes(title=xaxis_column_name,
-#                      type='linear' if xaxis_type == 'Linear' else 'log')
-
-#     fig.update_yaxes(title=yaxis_column_name,
-#                      type='linear' if yaxis_type == 'Linear' else 'log')
-
-#     return fig
 
 server = app.server

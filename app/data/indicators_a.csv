@@ -1,1024 +1,1024 @@
 ,country,cont,year,Indicator Name,Value
-0,Afghanistan,Asia,1970,Life Expectancy,41.228
-1,Afghanistan,Asia,2000,Life Expectancy,60.364
-2,Albania,Europe,1970,Life Expectancy,69.584
-3,Albania,Europe,1980,Life Expectancy,72.88
-4,Albania,Europe,1990,Life Expectancy,75.183
-5,Albania,Europe,2000,Life Expectancy,77.781
-6,Algeria,Africa,1970,Life Expectancy,51.755
-7,Algeria,Africa,1980,Life Expectancy,67.085
-8,Algeria,Africa,1990,Life Expectancy,70.032
-9,Algeria,Africa,2000,Life Expectancy,73.62
-10,Angola,Africa,2000,Life Expectancy,55.752
-11,Antigua and Barbuda,North America,1970,Life Expectancy,73.035
-12,Antigua and Barbuda,North America,1980,Life Expectancy,73.566
-13,Antigua and Barbuda,North America,1990,Life Expectancy,74.347
-14,Antigua and Barbuda,North America,2000,Life Expectancy,76.669
-15,Argentina,South America,1970,Life Expectancy,68.491
-16,Argentina,South America,1980,Life Expectancy,71.425
-17,Argentina,South America,1990,Life Expectancy,73.722
-18,Argentina,South America,2000,Life Expectancy,75.936
-19,Armenia,Europe,1990,Life Expectancy,70.514
-20,Armenia,Europe,2000,Life Expectancy,72.813
-21,Aruba,North America,1970,Life Expectancy,70.778
-22,Aruba,North America,1980,Life Expectancy,73.047
-23,Aruba,North America,1990,Life Expectancy,73.561
-24,Aruba,North America,2000,Life Expectancy,74.56
-25,Australia,Oceania,1970,Life Expectancy,74.0039024390244
-26,Australia,Oceania,1980,Life Expectancy,76.7136585365854
-27,Australia,Oceania,1990,Life Expectancy,78.9317073170732
-28,Australia,Oceania,2000,Life Expectancy,81.5439024390244
-29,Austria,Europe,1970,Life Expectancy,72.3121951219512
-30,Austria,Europe,1980,Life Expectancy,75.2658536585366
-31,Austria,Europe,1990,Life Expectancy,77.8756097560976
-32,Austria,Europe,2000,Life Expectancy,80.4317073170732
-33,Azerbaijan,Europe,1990,Life Expectancy,64.189
-34,Azerbaijan,Europe,2000,Life Expectancy,69.356
-35,Bahrain,Asia,1970,Life Expectancy,70.456
-36,Bahrain,Asia,1980,Life Expectancy,72.619
-37,Bahrain,Asia,1990,Life Expectancy,74.98
-38,Bahrain,Asia,2000,Life Expectancy,78.461
-39,Bangladesh,Asia,1970,Life Expectancy,51.464
-40,Bangladesh,Asia,1980,Life Expectancy,55.089
-41,Bangladesh,Asia,1990,Life Expectancy,66.228
-42,Bangladesh,Asia,2000,Life Expectancy,67.403
-43,Barbados,North America,1970,Life Expectancy,71.526
-44,Barbados,North America,1980,Life Expectancy,72.74
-45,Barbados,North America,1990,Life Expectancy,74.039
-46,Barbados,North America,2000,Life Expectancy,75.678
-47,Belarus,Europe,2000,Life Expectancy,70.4560975609756
-48,Belarus,Europe,1990,Life Expectancy,70.8365853658537
-49,Belgium,Europe,1970,Life Expectancy,73.1936585365854
-50,Belgium,Europe,1980,Life Expectancy,75.6326829268293
-51,Belgium,Europe,1990,Life Expectancy,77.619512195122
-52,Belgium,Europe,2000,Life Expectancy,80.0341463414634
-53,Belize,North America,1970,Life Expectancy,67.399
-54,Belize,North America,1990,Life Expectancy,70.744
-55,Belize,North America,1980,Life Expectancy,70.781
-56,Benin,Africa,1980,Life Expectancy,52.684
-57,Benin,Africa,1990,Life Expectancy,56.526
-58,Benin,Africa,2000,Life Expectancy,57.956
-59,Bermuda,North America,1970,Life Expectancy,73.299
-60,Bermuda,North America,1980,Life Expectancy,74.91
-61,Bermuda,North America,1990,Life Expectancy,79.949
-62,Bermuda,North America,2000,Life Expectancy,81.12
-63,Bhutan,Asia,1990,Life Expectancy,62.23
-64,Bhutan,Asia,2000,Life Expectancy,67.897
-65,Bosnia and Herzegovina,Europe,1990,Life Expectancy,75.076
-66,Bosnia and Herzegovina,Europe,2000,Life Expectancy,76.976
-67,Botswana,Africa,2000,Life Expectancy,58.279
-68,Botswana,Africa,1970,Life Expectancy,60.176
-69,Botswana,Africa,1980,Life Expectancy,62.678
-70,Brazil,South America,1970,Life Expectancy,61.253
-71,Brazil,South America,1980,Life Expectancy,65.868
-72,Brazil,South America,1990,Life Expectancy,69.524
-73,Brazil,South America,2000,Life Expectancy,72.948
-74,Bulgaria,Europe,1970,Life Expectancy,71.3948780487805
-75,Bulgaria,Europe,1990,Life Expectancy,71.6414634146342
-76,Bulgaria,Europe,1980,Life Expectancy,71.7307317073171
-77,Bulgaria,Europe,2000,Life Expectancy,73.4121951219512
-78,Burkina Faso,Africa,1980,Life Expectancy,49.174
-79,Burkina Faso,Africa,1990,Life Expectancy,50.325
-80,Burkina Faso,Africa,2000,Life Expectancy,55.959
-81,Burundi,Africa,1970,Life Expectancy,44.59
-82,Burundi,Africa,1990,Life Expectancy,47.528
-83,Burundi,Africa,2000,Life Expectancy,56.388
-84,Cambodia,Asia,1990,Life Expectancy,57.69
-85,Cambodia,Asia,2000,Life Expectancy,67.444
-86,Cameroon,Africa,1990,Life Expectancy,54.868
-87,Cameroon,Africa,1980,Life Expectancy,54.947
-88,Cameroon,Africa,2000,Life Expectancy,56.102
-89,Canada,North America,1970,Life Expectancy,74.8663414634146
-90,Canada,North America,1980,Life Expectancy,77.1248780487805
-91,Canada,North America,1990,Life Expectancy,78.8390243902439
-92,Canada,North America,2000,Life Expectancy,81.0660975609756
-93,Central African Republic,Africa,1970,Life Expectancy,49.597
-94,Central African Republic,Africa,1990,Life Expectancy,49.635
-95,Central African Republic,Africa,1980,Life Expectancy,50.518
-96,Chad,Africa,1990,Life Expectancy,47.372
-97,Chad,Africa,2000,Life Expectancy,49.196
-98,Chile,South America,1970,Life Expectancy,68.186
-99,Chile,South America,1980,Life Expectancy,72.54
-100,Chile,South America,1990,Life Expectancy,76.018
-101,Chile,South America,2000,Life Expectancy,78.741
-102,Colombia,South America,1970,Life Expectancy,66.38
-103,Colombia,South America,1980,Life Expectancy,68.533
-104,Colombia,South America,1990,Life Expectancy,70.926
-105,Colombia,South America,2000,Life Expectancy,74.742
-106,Comoros,Africa,1980,Life Expectancy,55.224
-107,Comoros,Africa,1990,Life Expectancy,58.781
-108,Costa Rica,North America,1970,Life Expectancy,72.423
-109,Costa Rica,North America,1980,Life Expectancy,76.263
-110,Costa Rica,North America,1990,Life Expectancy,77.138
-111,Costa Rica,North America,2000,Life Expectancy,78.672
-112,Croatia,Europe,1990,Life Expectancy,72.6419512195122
-113,Croatia,Europe,2000,Life Expectancy,76.1682926829268
-114,Cuba,North America,1970,Life Expectancy,72.447
-115,Cuba,North America,1980,Life Expectancy,73.981
-116,Cuba,North America,1990,Life Expectancy,75.893
-117,Cuba,North America,2000,Life Expectancy,77.548
-118,Cyprus,Europe,1970,Life Expectancy,71.895
-119,Cyprus,Europe,1980,Life Expectancy,73.48
-120,Cyprus,Europe,1990,Life Expectancy,76.295
-121,Cyprus,Europe,2000,Life Expectancy,79.401
-122,Denmark,Europe,1970,Life Expectancy,74.6324390243903
-123,Denmark,Europe,1980,Life Expectancy,74.799756097561
-124,Denmark,Europe,1990,Life Expectancy,76.3414634146341
-125,Denmark,Europe,2000,Life Expectancy,78.5975609756098
-126,Djibouti,Africa,1990,Life Expectancy,56.427
-127,Dominica,North America,1970,Life Expectancy,70.97
-128,Dominica,North America,1990,Life Expectancy,71.634
-129,Dominica,North America,2000,Life Expectancy,73.305
-130,Dominica,North America,1980,Life Expectancy,73.521
-131,Dominican Republic,North America,1970,Life Expectancy,60.822
-132,Dominican Republic,North America,1990,Life Expectancy,69.279
-133,Dominican Republic,North America,2000,Life Expectancy,71.871
-134,Ecuador,South America,1970,Life Expectancy,62.696
-135,Ecuador,South America,1980,Life Expectancy,68.749
-136,Ecuador,South America,1990,Life Expectancy,72.463
-137,Ecuador,South America,2000,Life Expectancy,75.184
-138,El Salvador,North America,1970,Life Expectancy,54.875
-139,El Salvador,North America,1980,Life Expectancy,61.476
-140,El Salvador,North America,1990,Life Expectancy,69.379
-141,El Salvador,North America,2000,Life Expectancy,71.576
-142,Equatorial Guinea,Africa,1980,Life Expectancy,50.668
-143,Equatorial Guinea,Africa,1990,Life Expectancy,52.752
-144,Equatorial Guinea,Africa,2000,Life Expectancy,57.431
-145,Eritrea,Africa,1990,Life Expectancy,56.312
-146,Estonia,Europe,1990,Life Expectancy,70.0634146341463
-147,Estonia,Europe,2000,Life Expectancy,74.8243902439024
-148,Ethiopia,Africa,1990,Life Expectancy,49.927
-149,Ethiopia,Africa,2000,Life Expectancy,58.804
-150,Fiji,Oceania,1970,Life Expectancy,62.941
-151,Fiji,Oceania,1980,Life Expectancy,65.277
-152,Fiji,Oceania,1990,Life Expectancy,66.763
-153,Fiji,Oceania,2000,Life Expectancy,67.089
-154,Finland,Europe,1970,Life Expectancy,73.1553658536586
-155,Finland,Europe,1980,Life Expectancy,74.7921951219512
-156,Finland,Europe,1990,Life Expectancy,77.2912195121951
-157,Finland,Europe,2000,Life Expectancy,79.719512195122
-158,France,Europe,1970,Life Expectancy,73.8512195121951
-159,France,Europe,1980,Life Expectancy,76.3487804878049
-160,France,Europe,1990,Life Expectancy,78.7560975609756
-161,France,Europe,2000,Life Expectancy,81.4146341463415
-162,Gabon,Africa,1990,Life Expectancy,60.849
-163,Georgia,Europe,1990,Life Expectancy,69.319
-164,Georgia,Europe,2000,Life Expectancy,71.95
-165,Germany,Europe,1970,Life Expectancy,72.6301707317073
-166,Germany,Europe,1980,Life Expectancy,75.1915365853659
-167,Germany,Europe,1990,Life Expectancy,77.7268292682927
-168,Germany,Europe,2000,Life Expectancy,79.8365853658537
-169,Ghana,Africa,1970,Life Expectancy,50.932
-170,Ghana,Africa,1990,Life Expectancy,58.03
-171,Ghana,Africa,2000,Life Expectancy,60.946
-172,Greece,Europe,1970,Life Expectancy,74.6210731707317
-173,Greece,Europe,1980,Life Expectancy,76.980756097561
-174,Greece,Europe,1990,Life Expectancy,78.1365853658537
-175,Greece,Europe,2000,Life Expectancy,80.1878048780488
-176,Grenada,North America,1970,Life Expectancy,68.151
-177,Grenada,North America,1980,Life Expectancy,70.419
-178,Grenada,North America,1990,Life Expectancy,72.903
-179,Guatemala,North America,1970,Life Expectancy,56.185
-180,Guatemala,North America,1980,Life Expectancy,62.374
-181,Guatemala,North America,1990,Life Expectancy,66.869
-182,Guatemala,North America,2000,Life Expectancy,70.641
-183,Guinea,Africa,1980,Life Expectancy,46.847
-184,Guinea,Africa,1990,Life Expectancy,52.356
-185,Guinea,Africa,2000,Life Expectancy,56.348
-186,Guyana,South America,1970,Life Expectancy,61.133
-187,Guyana,South America,1980,Life Expectancy,62.238
-188,Guyana,South America,1990,Life Expectancy,64.17
-189,Guyana,South America,2000,Life Expectancy,66.563
-190,Haiti,North America,1970,Life Expectancy,49.675
-191,Haiti,North America,1980,Life Expectancy,52.755
-192,Haiti,North America,1990,Life Expectancy,57.961
-193,Haiti,North America,2000,Life Expectancy,61.741
-194,Honduras,North America,1970,Life Expectancy,59.908
-195,Honduras,North America,1980,Life Expectancy,64.856
-196,Honduras,North America,1990,Life Expectancy,68.422
-197,Hungary,Europe,1970,Life Expectancy,69.8480487804878
-198,Hungary,Europe,1980,Life Expectancy,70.0234146341463
-199,Hungary,Europe,1990,Life Expectancy,70.7024390243902
-200,Hungary,Europe,2000,Life Expectancy,73.9048780487805
-201,Iceland,Europe,1970,Life Expectancy,76.9721951219512
-202,Iceland,Europe,1980,Life Expectancy,78.1409756097561
-203,Iceland,Europe,1990,Life Expectancy,79.6024390243903
-204,Iceland,Europe,2000,Life Expectancy,81.7512195121951
-205,India,Asia,1970,Life Expectancy,53.06
-206,India,Asia,1980,Life Expectancy,58.233
-207,India,Asia,1990,Life Expectancy,62.207
-208,India,Asia,2000,Life Expectancy,66.513
-209,Indonesia,Asia,1970,Life Expectancy,58.153
-210,Indonesia,Asia,1980,Life Expectancy,62.696
-211,Indonesia,Asia,1990,Life Expectancy,66.221
-212,Indonesia,Asia,2000,Life Expectancy,68.494
-213,Iraq,Asia,1970,Life Expectancy,64.791
-214,Iraq,Asia,1990,Life Expectancy,66.897
-215,Iraq,Asia,2000,Life Expectancy,67.084
-216,Ireland,Europe,1970,Life Expectancy,72.2680243902439
-217,Ireland,Europe,1980,Life Expectancy,74.4552195121951
-218,Ireland,Europe,1990,Life Expectancy,76.1804878048781
-219,Ireland,Europe,2000,Life Expectancy,80.190243902439
-220,Israel,Asia,1970,Life Expectancy,73.5073170731707
-221,Israel,Asia,1980,Life Expectancy,76.3073170731707
-222,Israel,Asia,1990,Life Expectancy,78.6585365853659
-223,Israel,Asia,2000,Life Expectancy,81.4048780487805
-224,Italy,Europe,1970,Life Expectancy,74.0026829268293
-225,Italy,Europe,1980,Life Expectancy,76.819512195122
-226,Italy,Europe,1990,Life Expectancy,79.4243902439024
-227,Italy,Europe,2000,Life Expectancy,81.6365853658537
-228,Jamaica,North America,1970,Life Expectancy,69.048
-229,Jamaica,North America,2000,Life Expectancy,72.124
-230,Jamaica,North America,1980,Life Expectancy,72.157
-231,Jamaica,North America,1990,Life Expectancy,72.304
-232,Japan,Asia,1970,Life Expectancy,76.1087804878049
-233,Japan,Asia,1980,Life Expectancy,78.7685365853659
-234,Japan,Asia,1990,Life Expectancy,80.5014634146342
-235,Japan,Asia,2000,Life Expectancy,82.9314634146342
-236,Jordan,Asia,1970,Life Expectancy,65.851
-237,Jordan,Asia,1980,Life Expectancy,69.57
-238,Jordan,Asia,1990,Life Expectancy,71.694
-239,Jordan,Asia,2000,Life Expectancy,73.801
-240,Kazakhstan,Asia,1990,Life Expectancy,68.3365853658537
-241,Kazakhstan,Asia,2000,Life Expectancy,68.39
-242,Kenya,Africa,1990,Life Expectancy,58.614
-243,Kenya,Africa,2000,Life Expectancy,60.365
-244,Kenya,Africa,1980,Life Expectancy,61.165
-245,Kiribati,Oceania,1970,Life Expectancy,57.083
-246,Kiribati,Oceania,1980,Life Expectancy,60.408
-247,Kiribati,Oceania,1990,Life Expectancy,64.136
-248,Kiribati,Oceania,2000,Life Expectancy,64.989
-249,Kuwait,Asia,1970,Life Expectancy,69.677
-250,Kuwait,Asia,1980,Life Expectancy,74.826
-251,Kuwait,Asia,1990,Life Expectancy,76.416
-252,Kuwait,Asia,2000,Life Expectancy,77.442
-253,Latvia,Europe,1990,Life Expectancy,69.7429268292683
-254,Latvia,Europe,2000,Life Expectancy,73.0804878048781
-255,Lebanon,Asia,1970,Life Expectancy,67.294
-256,Lebanon,Asia,1990,Life Expectancy,73.49
-257,Lesotho,Africa,2000,Life Expectancy,48.427
-258,Lesotho,Africa,1970,Life Expectancy,55.338
-259,Lesotho,Africa,1990,Life Expectancy,59.398
-260,Lesotho,Africa,1980,Life Expectancy,59.62
-261,Liberia,Africa,1980,Life Expectancy,45.436
-262,Liberia,Africa,2000,Life Expectancy,59.194
-263,Libya,Africa,1970,Life Expectancy,64.26
-264,Libya,Africa,1980,Life Expectancy,68.99
-265,Libya,Africa,1990,Life Expectancy,71.284
-266,Libya,Africa,2000,Life Expectancy,72.356
-267,Liechtenstein,Europe,1990,Life Expectancy,79.109756097561
-268,Liechtenstein,Europe,2000,Life Expectancy,82.6829268292683
-269,Lithuania,Europe,1990,Life Expectancy,71.5707317073171
-270,Lithuania,Europe,2000,Life Expectancy,72.9146341463415
-271,Luxembourg,Europe,1970,Life Expectancy,72.3307804878049
-272,Luxembourg,Europe,1980,Life Expectancy,74.7882195121951
-273,Luxembourg,Europe,1990,Life Expectancy,77.7707317073171
-274,Luxembourg,Europe,2000,Life Expectancy,80.6365853658537
-275,Madagascar,Africa,1970,Life Expectancy,49.851
-276,Madagascar,Africa,1990,Life Expectancy,57.372
-277,Madagascar,Africa,2000,Life Expectancy,62.734
-278,Malawi,Africa,1990,Life Expectancy,43.641
-279,Malawi,Africa,1970,Life Expectancy,44.268
-280,Malawi,Africa,1980,Life Expectancy,46.038
-281,Malawi,Africa,2000,Life Expectancy,55.448
-282,Malaysia,Asia,1970,Life Expectancy,67.762
-283,Malaysia,Asia,1980,Life Expectancy,71.117
-284,Malaysia,Asia,1990,Life Expectancy,72.384
-285,Malaysia,Asia,2000,Life Expectancy,74.25
-286,Maldives,Asia,1970,Life Expectancy,54.676
-287,Maldives,Asia,1980,Life Expectancy,62.847
-288,Maldives,Asia,1990,Life Expectancy,70.088
-289,Maldives,Asia,2000,Life Expectancy,77.069
-290,Mali,Africa,1980,Life Expectancy,45.877
-291,Mali,Africa,1990,Life Expectancy,49.797
-292,Malta,Europe,1970,Life Expectancy,71.8942682926829
-293,Malta,Europe,1980,Life Expectancy,75.3041219512195
-294,Malta,Europe,1990,Life Expectancy,77.7390243902439
-295,Malta,Europe,2000,Life Expectancy,80.2414634146342
-296,Marshall Islands,Oceania,1970,Life Expectancy,60.874
-297,Marshall Islands,Oceania,1980,Life Expectancy,62.19
-298,Marshall Islands,Oceania,1990,Life Expectancy,63.48
-299,Marshall Islands,Oceania,2000,Life Expectancy,63.745
-300,Mauritania,Africa,1990,Life Expectancy,60.819
-301,Mauritania,Africa,2000,Life Expectancy,62.8
-302,Mauritius,Africa,1970,Life Expectancy,65.3064390243902
-303,Mauritius,Africa,1980,Life Expectancy,68.95
-304,Mauritius,Africa,1990,Life Expectancy,70.9609756097561
-305,Mauritius,Africa,2000,Life Expectancy,72.8824390243903
-306,Mexico,North America,1970,Life Expectancy,64.189
-307,Mexico,North America,1980,Life Expectancy,69.623
-308,Mexico,North America,1990,Life Expectancy,73.225
-309,Mexico,North America,2000,Life Expectancy,74.376
-310,Mongolia,Asia,1970,Life Expectancy,55.65
-311,Mongolia,Asia,1980,Life Expectancy,58.344
-312,Mongolia,Asia,1990,Life Expectancy,62.529
-313,Mongolia,Asia,2000,Life Expectancy,66.766
-314,Montenegro,Europe,2000,Life Expectancy,75.1439024390244
-315,Montenegro,Europe,1990,Life Expectancy,75.6826097560976
-316,Morocco,Africa,1970,Life Expectancy,54.351
-317,Morocco,Africa,1980,Life Expectancy,61.899
-318,Morocco,Africa,1990,Life Expectancy,66.406
-319,Morocco,Africa,2000,Life Expectancy,70.458
-320,Mozambique,Africa,1970,Life Expectancy,42.795
-321,Mozambique,Africa,1980,Life Expectancy,44.143
-322,Mozambique,Africa,1990,Life Expectancy,48.812
-323,Mozambique,Africa,2000,Life Expectancy,53.788
-324,Myanmar,Asia,1980,Life Expectancy,56.565
-325,Myanmar,Asia,1990,Life Expectancy,59.881
-326,Myanmar,Asia,2000,Life Expectancy,63.155
-327,Namibia,Africa,2000,Life Expectancy,55.496
-328,Namibia,Africa,1990,Life Expectancy,62.496
-329,Nauru,Oceania,2000,Life Expectancy,59.123
-330,Nauru,Oceania,1990,Life Expectancy,61.463
-331,Nauru,Oceania,1970,Life Expectancy,61.538
-332,Nepal,Asia,1970,Life Expectancy,47.266
-333,Nepal,Asia,1980,Life Expectancy,54.127
-334,Nepal,Asia,1990,Life Expectancy,62.113
-335,Nepal,Asia,2000,Life Expectancy,66.761
-336,Netherlands,Europe,1970,Life Expectancy,75.6060975609756
-337,Netherlands,Europe,1980,Life Expectancy,76.890243902439
-338,Netherlands,Europe,1990,Life Expectancy,77.8829268292683
-339,Netherlands,Europe,2000,Life Expectancy,80.5487804878049
-340,New Zealand,Oceania,1970,Life Expectancy,73.0682926829269
-341,New Zealand,Oceania,1980,Life Expectancy,74.8243902439024
-342,New Zealand,Oceania,1990,Life Expectancy,78.0853658536585
-343,New Zealand,Oceania,2000,Life Expectancy,80.7024390243902
-344,Nicaragua,North America,1970,Life Expectancy,56.299
-345,Nicaragua,North America,1980,Life Expectancy,62.475
-346,Nicaragua,North America,1990,Life Expectancy,67.12
-347,Nicaragua,North America,2000,Life Expectancy,71.433
-348,Niger,Africa,1980,Life Expectancy,41.221
-349,Niger,Africa,1990,Life Expectancy,48.738
-350,Niger,Africa,2000,Life Expectancy,57.396
-351,Nigeria,Africa,1980,Life Expectancy,46.638
-352,Nigeria,Africa,2000,Life Expectancy,50.712
-353,Norway,Europe,1970,Life Expectancy,75.4185365853659
-354,Norway,Europe,1980,Life Expectancy,76.500487804878
-355,Norway,Europe,1990,Life Expectancy,78.3292682926829
-356,Norway,Europe,2000,Life Expectancy,80.7951219512195
-357,Oman,Asia,1980,Life Expectancy,69.156
-358,Oman,Asia,1990,Life Expectancy,73.184
-359,Oman,Asia,2000,Life Expectancy,74.681
-360,Pakistan,Asia,1970,Life Expectancy,57.146
-361,Pakistan,Asia,1980,Life Expectancy,59.62
-362,Pakistan,Asia,1990,Life Expectancy,61.679
-363,Pakistan,Asia,2000,Life Expectancy,64.14
-364,Palau,Oceania,2000,Life Expectancy,70.4936585365854
-365,Palau,Oceania,1990,Life Expectancy,71.8446341463415
-366,Panama,North America,1970,Life Expectancy,68.989
-367,Panama,North America,1980,Life Expectancy,70.888
-368,Panama,North America,1990,Life Expectancy,73.622
-369,Panama,North America,2000,Life Expectancy,76.343
-370,Papua New Guinea,Oceania,1970,Life Expectancy,57.003
-371,Papua New Guinea,Oceania,1990,Life Expectancy,61.672
-372,Papua New Guinea,Oceania,2000,Life Expectancy,62.788
-373,Paraguay,South America,1970,Life Expectancy,64.448
-374,Paraguay,South America,1980,Life Expectancy,67.469
-375,Paraguay,South America,1990,Life Expectancy,69.634
-376,Paraguay,South America,2000,Life Expectancy,71.635
-377,Peru,South America,1970,Life Expectancy,59.303
-378,Peru,South America,1980,Life Expectancy,64.352
-379,Peru,South America,1990,Life Expectancy,69.743
-380,Peru,South America,2000,Life Expectancy,73.466
-381,Philippines,Asia,1970,Life Expectancy,62.349
-382,Philippines,Asia,1990,Life Expectancy,69.298
-383,Philippines,Asia,2000,Life Expectancy,70.633
-384,Poland,Europe,1970,Life Expectancy,71.1170731707317
-385,Poland,Europe,1980,Life Expectancy,71.3317073170732
-386,Poland,Europe,1990,Life Expectancy,73.0439024390244
-387,Poland,Europe,2000,Life Expectancy,75.6951219512195
-388,Portugal,Europe,1970,Life Expectancy,71.1682926829268
-389,Portugal,Europe,1980,Life Expectancy,74.2658536585366
-390,Portugal,Europe,1990,Life Expectancy,75.9634146341463
-391,Portugal,Europe,2000,Life Expectancy,78.7268292682927
-392,Puerto Rico,North America,1970,Life Expectancy,73.04
-393,Puerto Rico,North America,1980,Life Expectancy,73.853
-394,Puerto Rico,North America,1990,Life Expectancy,75.536
-395,Puerto Rico,North America,2000,Life Expectancy,77.877
-396,Qatar,Asia,1980,Life Expectancy,73.594
-397,Qatar,Asia,1990,Life Expectancy,74.809
-398,Qatar,Asia,2000,Life Expectancy,77.878
-399,Romania,Europe,1980,Life Expectancy,69.7263414634147
-400,Romania,Europe,1970,Life Expectancy,69.7419512195122
-401,Romania,Europe,1990,Life Expectancy,70.5121951219512
-402,Romania,Europe,2000,Life Expectancy,73.309756097561
-403,Russian Federation,Europe,2000,Life Expectancy,68.6846341463415
-404,Russian Federation,Europe,1990,Life Expectancy,68.8860975609756
-405,Rwanda,Africa,1970,Life Expectancy,47.153
-406,Rwanda,Africa,1990,Life Expectancy,48.431
-407,Rwanda,Africa,2000,Life Expectancy,61.958
-408,Samoa,Oceania,1970,Life Expectancy,64.39
-409,Samoa,Oceania,1980,Life Expectancy,67.471
-410,Samoa,Oceania,1990,Life Expectancy,70.456
-411,Samoa,Oceania,2000,Life Expectancy,72.155
-412,Sao Tome and Principe,Africa,1980,Life Expectancy,61.334
-413,Sao Tome and Principe,Africa,1990,Life Expectancy,61.471
-414,Sao Tome and Principe,Africa,2000,Life Expectancy,65.116
-415,Saudi Arabia,Asia,1990,Life Expectancy,72.136
-416,Saudi Arabia,Asia,2000,Life Expectancy,75.431
-417,Senegal,Africa,1970,Life Expectancy,48.196
-418,Senegal,Africa,1980,Life Expectancy,56.438
-419,Senegal,Africa,1990,Life Expectancy,57.139
-420,Senegal,Africa,2000,Life Expectancy,63.923
-421,Serbia,Europe,1990,Life Expectancy,71.6894878048781
-422,Serbia,Europe,2000,Life Expectancy,73.9853658536585
-423,Seychelles,Africa,1980,Life Expectancy,70.3829268292683
-424,Seychelles,Africa,1990,Life Expectancy,72.6682926829268
-425,Seychelles,Africa,2000,Life Expectancy,73.2536585365854
-426,Sierra Leone,Africa,1970,Life Expectancy,42.873
-427,Sierra Leone,Africa,1980,Life Expectancy,44.047
-428,Sierra Leone,Africa,1990,Life Expectancy,44.057
-429,Sierra Leone,Africa,2000,Life Expectancy,52.626
-430,Singapore,Asia,1970,Life Expectancy,71.6392195121951
-431,Singapore,Asia,1980,Life Expectancy,74.9463414634146
-432,Singapore,Asia,1990,Life Expectancy,77.5512195121951
-433,Singapore,Asia,2000,Life Expectancy,81.2414634146342
-434,Slovenia,Europe,1990,Life Expectancy,75.009756097561
-435,Slovenia,Europe,2000,Life Expectancy,78.9707317073171
-436,Solomon Islands,Oceania,1980,Life Expectancy,65.186
-437,Solomon Islands,Oceania,1990,Life Expectancy,67.069
-438,Somalia,Africa,1970,Life Expectancy,47.305
-439,Somalia,Africa,1980,Life Expectancy,48.903
-440,Somalia,Africa,2000,Life Expectancy,51.853
-441,South Africa,Africa,2000,Life Expectancy,58.47
-442,South Africa,Africa,1970,Life Expectancy,59.395
-443,South Africa,Africa,1990,Life Expectancy,63.375
-444,Spain,Europe,1970,Life Expectancy,74.8187804878049
-445,Spain,Europe,1980,Life Expectancy,76.8136585365854
-446,Spain,Europe,1990,Life Expectancy,78.7170731707317
-447,Spain,Europe,2000,Life Expectancy,81.4756097560976
-448,Sri Lanka,Asia,1970,Life Expectancy,68.13
-449,Sri Lanka,Asia,1980,Life Expectancy,71.549
-450,Sri Lanka,Asia,2000,Life Expectancy,72.118
-451,Sri Lanka,Asia,1990,Life Expectancy,73.052
-452,Suriname,South America,1970,Life Expectancy,61.878
-453,Suriname,South America,1980,Life Expectancy,64.01
-454,Suriname,South America,1990,Life Expectancy,65.697
-455,Suriname,South America,2000,Life Expectancy,69.505
-456,Sweden,Europe,1970,Life Expectancy,75.5241463414634
-457,Sweden,Europe,1980,Life Expectancy,77.7268292682927
-458,Sweden,Europe,1990,Life Expectancy,79.4414634146342
-459,Sweden,Europe,2000,Life Expectancy,81.3512195121951
-460,Switzerland,Europe,1970,Life Expectancy,75.4660975609756
-461,Switzerland,Europe,1980,Life Expectancy,77.4212195121951
-462,Switzerland,Europe,1990,Life Expectancy,79.580487804878
-463,Switzerland,Europe,2000,Life Expectancy,82.0439024390244
-464,Tajikistan,Asia,1990,Life Expectancy,62.621
-465,Tajikistan,Asia,2000,Life Expectancy,68.039
-466,Thailand,Asia,1970,Life Expectancy,63.209
-467,Thailand,Asia,1980,Life Expectancy,70.122
-468,Thailand,Asia,1990,Life Expectancy,72.862
-469,Thailand,Asia,2000,Life Expectancy,75.842
-470,Timor-Leste,Asia,2000,Life Expectancy,64.854
-471,Togo,Africa,1970,Life Expectancy,50.765
-472,Togo,Africa,1980,Life Expectancy,54.39
-473,Togo,Africa,1990,Life Expectancy,54.538
-474,Tonga,Oceania,1970,Life Expectancy,65.782
-475,Tonga,Oceania,1980,Life Expectancy,67.162
-476,Tonga,Oceania,1990,Life Expectancy,68.809
-477,Tonga,Oceania,2000,Life Expectancy,70.164
-478,Trinidad and Tobago,North America,1970,Life Expectancy,67.768
-479,Trinidad and Tobago,North America,1980,Life Expectancy,68.438
-480,Trinidad and Tobago,North America,1990,Life Expectancy,69.17
-481,Trinidad and Tobago,North America,2000,Life Expectancy,73.126
-482,Tunisia,Africa,1970,Life Expectancy,63.211
-483,Tunisia,Africa,1980,Life Expectancy,69.671
-484,Tunisia,Africa,1990,Life Expectancy,73.508
-485,Tunisia,Africa,2000,Life Expectancy,75.267
-486,Turkmenistan,Asia,1990,Life Expectancy,64.518
-487,Turkmenistan,Asia,2000,Life Expectancy,67.958
-488,Tuvalu,Oceania,1970,Life Expectancy,60.506
-489,Tuvalu,Oceania,1990,Life Expectancy,63.427
-490,Uganda,Africa,1980,Life Expectancy,46.701
-491,Uganda,Africa,1990,Life Expectancy,47.786
-492,Uganda,Africa,2000,Life Expectancy,56.488
-493,Ukraine,Europe,2000,Life Expectancy,69.19
-494,United Arab Emirates,Asia,1980,Life Expectancy,71.757
-495,United Arab Emirates,Asia,1990,Life Expectancy,73.67
-496,United Arab Emirates,Asia,2000,Life Expectancy,78.003
-497,Uruguay,South America,1970,Life Expectancy,70.279
-498,Uruguay,South America,1980,Life Expectancy,73.002
-499,Uruguay,South America,1990,Life Expectancy,74.769
-500,Uruguay,South America,2000,Life Expectancy,76.738
-501,Uzbekistan,Asia,1990,Life Expectancy,65.383
-502,Uzbekistan,Asia,2000,Life Expectancy,68.871
-503,Vanuatu,Oceania,1970,Life Expectancy,60.446
-504,Vanuatu,Oceania,1980,Life Expectancy,66.134
-505,Zambia,Africa,1990,Life Expectancy,47.926
-506,Zambia,Africa,2000,Life Expectancy,55.3
-507,Zimbabwe,Africa,2000,Life Expectancy,48.063
-508,Zimbabwe,Africa,1990,Life Expectancy,59.426
-509,Zimbabwe,Africa,1980,Life Expectancy,62.023
-510,Afghanistan,Asia,1970,GDP Per Capita,225.811558117818
-511,Afghanistan,Asia,2000,GDP Per Capita,423.407101823935
-512,Albania,Europe,1970,GDP Per Capita,821.218507999472
-513,Albania,Europe,1980,GDP Per Capita,895.924262148216
-514,Albania,Europe,1990,GDP Per Capita,1004.17988730455
-515,Albania,Europe,2000,GDP Per Capita,4109.89315287614
-516,Algeria,Africa,1970,GDP Per Capita,1827.57019502987
-517,Algeria,Africa,1980,GDP Per Capita,2223.60679692309
-518,Algeria,Africa,1990,GDP Per Capita,1599.25192839523
-519,Algeria,Africa,2000,GDP Per Capita,3898.47892309037
-520,Angola,Africa,2000,GDP Per Capita,3123.69875363117
-521,Antigua and Barbuda,North America,1970,GDP Per Capita,1744.06735559717
-522,Antigua and Barbuda,North America,1980,GDP Per Capita,3763.04974218469
-523,Antigua and Barbuda,North America,1990,GDP Per Capita,10379.1604015118
-524,Antigua and Barbuda,North America,2000,GDP Per Capita,14530.5986896353
-525,Argentina,South America,1970,GDP Per Capita,2679.6671289786
-526,Argentina,South America,1980,GDP Per Capita,2581.76530451724
-527,Argentina,South America,1990,GDP Per Capita,8387.03249452985
-528,Argentina,South America,2000,GDP Per Capita,8267.53994660745
-529,Armenia,Europe,1990,GDP Per Capita,622.688397271085
-530,Armenia,Europe,2000,GDP Per Capita,3111.1456974399
-531,Aruba,North America,1970,GDP Per Capita,5086.33420229471
-532,Aruba,North America,1980,GDP Per Capita,10372.9630804865
-533,Aruba,North America,1990,GDP Per Capita,20782.619496716
-534,Aruba,North America,2000,GDP Per Capita,25740.7702303087
-535,Australia,Oceania,1970,GDP Per Capita,10362.1390419826
-536,Australia,Oceania,1980,GDP Per Capita,19053.2333744409
-537,Australia,Oceania,1990,GDP Per Capita,22723.0591553695
-538,Australia,Oceania,2000,GDP Per Capita,46952.0905196545
-539,Austria,Europe,1970,GDP Per Capita,9796.75067678717
-540,Austria,Europe,1980,GDP Per Capita,17469.1671548551
-541,Austria,Europe,1990,GDP Per Capita,27176.727625305
-542,Austria,Europe,2000,GDP Per Capita,51712.9494845637
-543,Azerbaijan,Europe,1990,GDP Per Capita,565.481859165913
-544,Azerbaijan,Europe,2000,GDP Per Capita,4856.82188096247
-545,Bahrain,Asia,1970,GDP Per Capita,8421.89365471037
-546,Bahrain,Asia,1980,GDP Per Capita,8950.31634408545
-547,Bahrain,Asia,1990,GDP Per Capita,10955.1881338375
-548,Bahrain,Asia,2000,GDP Per Capita,19448.1851652978
-549,Bangladesh,Asia,1970,GDP Per Capita,180.18018038969
-550,Bangladesh,Asia,1980,GDP Per Capita,256.970233054904
-551,Bangladesh,Asia,1990,GDP Per Capita,353.107787422518
-552,Bangladesh,Asia,2000,GDP Per Capita,734.878975850348
-553,Barbados,North America,1970,GDP Per Capita,3191.35843762632
-554,Barbados,North America,1980,GDP Per Capita,7910.35793537616
-555,Barbados,North America,1990,GDP Per Capita,11578.9071544839
-556,Barbados,North America,2000,GDP Per Capita,16310.4703953015
-557,Belarus,Europe,2000,GDP Per Capita,6416.86703886436
-558,Belarus,Europe,1990,GDP Per Capita,1867.96625990613
-559,Belgium,Europe,1970,GDP Per Capita,11851.9779454138
-560,Belgium,Europe,1980,GDP Per Capita,16525.9441630725
-561,Belgium,Europe,1990,GDP Per Capita,25248.9707855979
-562,Belgium,Europe,2000,GDP Per Capita,44560.788065762
-563,Belize,North America,1970,GDP Per Capita,1102.48412810334
-564,Belize,North America,1990,GDP Per Capita,3009.16170196452
-565,Belize,North America,1980,GDP Per Capita,2206.59470474839
-566,Benin,Africa,1980,GDP Per Capita,325.865073778658
-567,Benin,Africa,1990,GDP Per Capita,541.50366584338
-568,Benin,Africa,2000,GDP Per Capita,1057.4622587939
-569,Bermuda,North America,1970,GDP Per Capita,14058.7747633853
-570,Bermuda,North America,1980,GDP Per Capita,32685.440377159
-571,Bermuda,North America,1990,GDP Per Capita,51655.1985875287
-572,Bermuda,North America,2000,GDP Per Capita,71480.7549569652
-573,Bhutan,Asia,1990,GDP Per Capita,703.706181191921
-574,Bhutan,Asia,2000,GDP Per Capita,1768.74651818836
-575,Bosnia and Herzegovina,Europe,1990,GDP Per Capita,1131.32776396388
-576,Bosnia and Herzegovina,Europe,2000,GDP Per Capita,4542.31091269208
-577,Botswana,Africa,2000,GDP Per Capita,4938.25201007683
-578,Botswana,Africa,1970,GDP Per Capita,665.44278380495
-579,Botswana,Africa,1980,GDP Per Capita,949.117859529572
-580,Brazil,South America,1970,GDP Per Capita,1565.34497895037
-581,Brazil,South America,1980,GDP Per Capita,2549.01119419176
-582,Brazil,South America,1990,GDP Per Capita,3440.5229050543
-583,Brazil,South America,2000,GDP Per Capita,8569.90089143029
-584,Bulgaria,Europe,1970,GDP Per Capita,1418.14511336961
-585,Bulgaria,Europe,1990,GDP Per Capita,2363.88596942809
-586,Bulgaria,Europe,1980,GDP Per Capita,1970.59991150503
-587,Bulgaria,Europe,2000,GDP Per Capita,6814.09877865966
-588,Burkina Faso,Africa,1980,GDP Per Capita,334.11916996529
-589,Burkina Faso,Africa,1990,GDP Per Capita,293.779673197638
-590,Burkina Faso,Africa,2000,GDP Per Capita,601.456763013935
-591,Burundi,Africa,1970,GDP Per Capita,191.624535780108
-592,Burundi,Africa,1990,GDP Per Capita,130.764789861153
-593,Burundi,Africa,2000,GDP Per Capita,203.860702555646
-594,Cambodia,Asia,1990,GDP Per Capita,295.216087354411
-595,Cambodia,Asia,2000,GDP Per Capita,734.81457679204
-596,Cameroon,Africa,1990,GDP Per Capita,1213.6375367014
-597,Cameroon,Africa,1980,GDP Per Capita,1081.18090050945
-598,Cameroon,Africa,2000,GDP Per Capita,1440.06418446298
-599,Canada,North America,1970,GDP Per Capita,10136.2004212476
-600,Canada,North America,1980,GDP Per Capita,20819.5394486805
-601,Canada,North America,1990,GDP Per Capita,22316.0993933454
-602,Canada,North America,2000,GDP Per Capita,40918.8506604706
-603,Central African Republic,Africa,1970,GDP Per Capita,427.819918221489
-604,Central African Republic,Africa,1990,GDP Per Capita,536.590489536436
-605,Central African Republic,Africa,1980,GDP Per Capita,354.428797751576
-606,Chad,Africa,1990,GDP Per Capita,217.855613738598
-607,Chad,Africa,2000,GDP Per Capita,891.107108010156
-608,Chile,South America,1970,GDP Per Capita,2043.00848242906
-609,Chile,South America,1980,GDP Per Capita,1874.57596684439
-610,Chile,South America,1990,GDP Per Capita,5012.33914948986
-611,Chile,South America,2000,GDP Per Capita,10240.8912464749
-612,Colombia,South America,1970,GDP Per Capita,1534.11250454722
-613,Colombia,South America,1980,GDP Per Capita,1739.40394710966
-614,Colombia,South America,1990,GDP Per Capita,2649.55637550275
-615,Colombia,South America,2000,GDP Per Capita,5244.35326618386
-616,Comoros,Africa,1980,GDP Per Capita,992.3987717222
-617,Comoros,Africa,1990,GDP Per Capita,881.006045254275
-618,Costa Rica,North America,1970,GDP Per Capita,2192.8405357406
-619,Costa Rica,North America,1980,GDP Per Capita,2166.56816750248
-620,Costa Rica,North America,1990,GDP Per Capita,3653.69416393967
-621,Costa Rica,North America,2000,GDP Per Capita,6737.86075358885
-622,Croatia,Europe,1990,GDP Per Capita,5130.78387565194
-623,Croatia,Europe,2000,GDP Per Capita,14450.5966501273
-624,Cuba,North America,1970,GDP Per Capita,2003.55881299132
-625,Cuba,North America,1980,GDP Per Capita,2567.15077740449
-626,Cuba,North America,1990,GDP Per Capita,2562.29983232301
-627,Cuba,North America,2000,GDP Per Capita,5501.99256681513
-628,Cyprus,Europe,1970,GDP Per Capita,3960.61732480635
-629,Cyprus,Europe,1980,GDP Per Capita,9015.38048315057
-630,Cyprus,Europe,1990,GDP Per Capita,15282.9843630321
-631,Cyprus,Europe,2000,GDP Per Capita,32107.3204482557
-632,Denmark,Europe,1970,GDP Per Capita,9771.99729280011
-633,Denmark,Europe,1980,GDP Per Capita,21895.4303252995
-634,Denmark,Europe,1990,GDP Per Capita,33452.8293346403
-635,Denmark,Europe,2000,GDP Per Capita,58128.3074828727
-636,Djibouti,Africa,1990,GDP Per Capita,729.905418297748
-637,Dominica,North America,1970,GDP Per Capita,756.081224144109
-638,Dominica,North America,1990,GDP Per Capita,4385.99454102993
-639,Dominica,North America,2000,GDP Per Capita,6661.46504737997
-640,Dominica,North America,1980,GDP Per Capita,1365.26957155442
-641,Dominican Republic,North America,1970,GDP Per Capita,1078.19014826014
-642,Dominican Republic,North America,1990,GDP Per Capita,2599.13569883882
-643,Dominican Republic,North America,2000,GDP Per Capita,4982.45897288324
-644,Ecuador,South America,1970,GDP Per Capita,1788.37347854021
-645,Ecuador,South America,1980,GDP Per Capita,1359.83530171099
-646,Ecuador,South America,1990,GDP Per Capita,1581.96722764321
-647,Ecuador,South America,2000,GDP Per Capita,4240.70259271564
-648,El Salvador,North America,1970,GDP Per Capita,397.284989198506
-649,El Salvador,North America,1980,GDP Per Capita,957.163386868429
-650,El Salvador,North America,1990,GDP Per Capita,1904.87489457873
-651,El Salvador,North America,2000,GDP Per Capita,2889.68523217474
-652,Equatorial Guinea,Africa,1980,GDP Per Capita,307.805731680396
-653,Equatorial Guinea,Africa,1990,GDP Per Capita,1400.08148204354
-654,Equatorial Guinea,Africa,2000,GDP Per Capita,14398.772796858
-655,Eritrea,Africa,1990,GDP Per Capita,341.280821275031
-656,Estonia,Europe,1990,GDP Per Capita,4106.77890039548
-657,Estonia,Europe,2000,GDP Per Capita,14717.8507243283
-658,Ethiopia,Africa,1990,GDP Per Capita,122.379648362907
-659,Ethiopia,Africa,2000,GDP Per Capita,324.984264030032
-660,Fiji,Oceania,1970,GDP Per Capita,1621.64961358058
-661,Fiji,Oceania,1980,GDP Per Capita,1530.5655947211
-662,Fiji,Oceania,1990,GDP Per Capita,2351.72736182033
-663,Fiji,Oceania,2000,GDP Per Capita,3184.67556987453
-664,Finland,Europe,1970,GDP Per Capita,9308.35319555015
-665,Finland,Europe,1980,GDP Per Capita,23971.7177849422
-666,Finland,Europe,1990,GDP Per Capita,26176.5011397258
-667,Finland,Europe,2000,GDP Per Capita,47291.6401256462
-668,France,Europe,1970,GDP Per Capita,11213.3410444152
-669,France,Europe,1980,GDP Per Capita,17746.7362849023
-670,France,Europe,1990,GDP Per Capita,24754.1132026642
-671,France,Europe,2000,GDP Per Capita,41899.1874909368
-672,Gabon,Africa,1990,GDP Per Capita,4160.67532351556
-673,Georgia,Europe,1990,GDP Per Capita,670.284743401535
-674,Georgia,Europe,2000,GDP Per Capita,2937.9894953786
-675,Germany,Europe,1970,GDP Per Capita,11311.0552601663
-676,Germany,Europe,1980,GDP Per Capita,17728.1208007552
-677,Germany,Europe,1990,GDP Per Capita,26903.1635964241
-678,Germany,Europe,2000,GDP Per Capita,41810.9853959123
-679,Ghana,Africa,1970,GDP Per Capita,548.919686701011
-680,Ghana,Africa,1990,GDP Per Capita,853.736041551079
-681,Ghana,Africa,2000,GDP Per Capita,1378.1384996456
-682,Greece,Europe,1970,GDP Per Capita,5925.87027528106
-683,Greece,Europe,1980,GDP Per Capita,7535.22389986922
-684,Greece,Europe,1990,GDP Per Capita,13162.8695482838
-685,Greece,Europe,2000,GDP Per Capita,29847.6317918291
-686,Grenada,North America,1970,GDP Per Capita,524.12067978496
-687,Grenada,North America,1980,GDP Per Capita,2160.95754536686
-688,Grenada,North America,1990,GDP Per Capita,3556.4789487352
-689,Guatemala,North America,1970,GDP Per Capita,888.694590407232
-690,Guatemala,North America,1980,GDP Per Capita,834.737964753724
-691,Guatemala,North America,1990,GDP Per Capita,1401.89277232373
-692,Guatemala,North America,2000,GDP Per Capita,2604.2438916029
-693,Guinea,Africa,1980,GDP Per Capita,580.497668054472
-694,Guinea,Africa,1990,GDP Per Capita,581.220383594434
-695,Guinea,Africa,2000,GDP Per Capita,670.261253521271
-696,Guyana,South America,1970,GDP Per Capita,1070.70784507112
-697,Guyana,South America,1980,GDP Per Capita,805.626878086742
-698,Guyana,South America,1990,GDP Per Capita,1461.64108419882
-699,Guyana,South America,2000,GDP Per Capita,4213.814514606
-700,Haiti,North America,1970,GDP Per Capita,258.846618780143
-701,Haiti,North America,1980,GDP Per Capita,439.048159529233
-702,Haiti,North America,1990,GDP Per Capita,828.740003708947
-703,Haiti,North America,2000,GDP Per Capita,1165.76760339272
-704,Honduras,North America,1970,GDP Per Capita,733.333985168464
-705,Honduras,North America,1980,GDP Per Capita,1254.49063338731
-706,Honduras,North America,1990,GDP Per Capita,999.028905143754
-707,Hungary,Europe,1970,GDP Per Capita,1537.00675656707
-708,Hungary,Europe,1980,GDP Per Capita,3080.90068610767
-709,Hungary,Europe,1990,GDP Per Capita,4598.08961592319
-710,Hungary,Europe,2000,GDP Per Capita,13095.692926302
-711,Iceland,Europe,1970,GDP Per Capita,7580.10713702793
-712,Iceland,Europe,1980,GDP Per Capita,22417.5047035396
-713,Iceland,Europe,1990,GDP Per Capita,31003.1139287028
-714,Iceland,Europe,2000,GDP Per Capita,41262.2841805283
-715,India,Asia,1970,GDP Per Capita,223.210402161877
-716,India,Asia,1980,GDP Per Capita,356.818417646233
-717,India,Asia,1990,GDP Per Capita,443.816554757713
-718,India,Asia,2000,GDP Per Capita,1074.8504934395
-719,Indonesia,Asia,1970,GDP Per Capita,413.744315432422
-720,Indonesia,Asia,1980,GDP Per Capita,660.498131418557
-721,Indonesia,Asia,1990,GDP Per Capita,776.199465493106
-722,Indonesia,Asia,2000,GDP Per Capita,2384.02373171863
-723,Iraq,Asia,1970,GDP Per Capita,1210.69454343411
-724,Iraq,Asia,1990,GDP Per Capita,365.636436943613
-725,Iraq,Asia,2000,GDP Per Capita,928.956911322696
-726,Ireland,Europe,1970,GDP Per Capita,5466.32602221096
-727,Ireland,Europe,1980,GDP Per Capita,11266.9966380681
-728,Ireland,Europe,1990,GDP Per Capita,24519.5846909544
-729,Ireland,Europe,2000,GDP Per Capita,52334.7032951196
-730,Israel,Asia,1970,GDP Per Capita,5738.68833349001
-731,Israel,Asia,1980,GDP Per Capita,10654.6610010228
-732,Israel,Asia,1990,GDP Per Capita,19546.8730697326
-733,Israel,Asia,2000,GDP Per Capita,28883.3441296848
-734,Italy,Europe,1970,GDP Per Capita,7021.0185725566
-735,Italy,Europe,1980,GDP Per Capita,16374.5530647854
-736,Italy,Europe,1990,GDP Per Capita,21985.8790208141
-737,Italy,Europe,2000,GDP Per Capita,36786.5240549018
-738,Jamaica,North America,1970,GDP Per Capita,1431.99533688295
-739,Jamaica,North America,2000,GDP Per Capita,4452.12123985948
-740,Jamaica,North America,1980,GDP Per Capita,2127.26391868099
-741,Jamaica,North America,1990,GDP Per Capita,2206.08628710569
-742,Japan,Asia,1970,GDP Per Capita,9035.306132493
-743,Japan,Asia,1980,GDP Per Capita,24782.167099641
-744,Japan,Asia,1990,GDP Per Capita,32447.2720193752
-745,Japan,Asia,2000,GDP Per Capita,41286.4178904505
-746,Jordan,Asia,1970,GDP Per Capita,1496.53154864563
-747,Jordan,Asia,1980,GDP Per Capita,1285.82336855394
-748,Jordan,Asia,1990,GDP Per Capita,1697.52139260954
-749,Jordan,Asia,2000,GDP Per Capita,3618.89262682576
-750,Kazakhstan,Asia,1990,GDP Per Capita,1758.75947420768
-751,Kazakhstan,Asia,2000,GDP Per Capita,7030.00201995031
-752,Kenya,Africa,1990,GDP Per Capita,598.9884326645
-753,Kenya,Africa,2000,GDP Per Capita,1049.12178759176
-754,Kenya,Africa,1980,GDP Per Capita,647.317253712136
-755,Kiribati,Oceania,1970,GDP Per Capita,568.337278622399
-756,Kiribati,Oceania,1980,GDP Per Capita,497.800428776169
-757,Kiribati,Oceania,1990,GDP Per Capita,887.585154254196
-758,Kiribati,Oceania,2000,GDP Per Capita,1063.8786056883
-759,Kuwait,Asia,1970,GDP Per Capita,17524.8720502155
-760,Kuwait,Asia,1980,GDP Per Capita,11001.8180344531
-761,Kuwait,Asia,1990,GDP Per Capita,16045.0362815823
-762,Kuwait,Asia,2000,GDP Per Capita,37905.9017072373
-763,Latvia,Europe,1990,GDP Per Capita,3104.92295381771
-764,Latvia,Europe,2000,GDP Per Capita,12422.4284295482
-765,Lebanon,Asia,1970,GDP Per Capita,1774.54981266228
-766,Lebanon,Asia,1990,GDP Per Capita,4002.09466351708
-767,Lesotho,Africa,2000,GDP Per Capita,411.33117186455
-768,Lesotho,Africa,1970,GDP Per Capita,229.955256969008
-769,Lesotho,Africa,1990,GDP Per Capita,326.7891930279
-770,Lesotho,Africa,1980,GDP Per Capita,275.430090104764
-771,Liberia,Africa,1980,GDP Per Capita,502.087105842441
-772,Liberia,Africa,2000,GDP Per Capita,295.76964896368
-773,Libya,Africa,1970,GDP Per Capita,10057.9446744127
-774,Libya,Africa,1980,GDP Per Capita,6551.44456220239
-775,Libya,Africa,1990,GDP Per Capita,6490.40607487936
-776,Libya,Africa,2000,GDP Per Capita,9560.80380767523
-777,Liechtenstein,Europe,1990,GDP Per Capita,90341.7462517988
-778,Liechtenstein,Europe,2000,GDP Per Capita,158755.600890282
-779,Lithuania,Europe,1990,GDP Per Capita,3019.24648701247
-780,Lithuania,Europe,2000,GDP Per Capita,11755.0791163584
-781,Luxembourg,Europe,1970,GDP Per Capita,15201.3401607755
-782,Luxembourg,Europe,1980,GDP Per Capita,25221.5888532114
-783,Luxembourg,Europe,1990,GDP Per Capita,50987.1617574253
-784,Luxembourg,Europe,2000,GDP Per Capita,108962.506590355
-785,Madagascar,Africa,1970,GDP Per Capita,377.175629193393
-786,Madagascar,Africa,1990,GDP Per Capita,274.630334633781
-787,Madagascar,Africa,2000,GDP Per Capita,455.407373684564
-788,Malawi,Africa,1990,GDP Per Capita,244.606166448788
-789,Malawi,Africa,1970,GDP Per Capita,305.209195240582
-790,Malawi,Africa,1980,GDP Per Capita,312.207068932962
-791,Malawi,Africa,2000,GDP Per Capita,432.978243049431
-792,Malaysia,Asia,1970,GDP Per Capita,1647.63107389894
-793,Malaysia,Asia,1980,GDP Per Capita,2282.47025147258
-794,Malaysia,Asia,1990,GDP Per Capita,4411.44164789795
-795,Malaysia,Asia,2000,GDP Per Capita,8343.30254803955
-796,Maldives,Asia,1970,GDP Per Capita,527.032644800106
-797,Maldives,Asia,1980,GDP Per Capita,1135.03935383333
-798,Maldives,Asia,1990,GDP Per Capita,3007.51147395971
-799,Maldives,Asia,2000,GDP Per Capita,6719.33026777068
-800,Mali,Africa,1980,GDP Per Capita,257.203125279719
-801,Mali,Africa,1990,GDP Per Capita,315.055891465811
-802,Malta,Europe,1970,GDP Per Capita,3153.36305791715
-803,Malta,Europe,1980,GDP Per Capita,6092.94325420388
-804,Malta,Europe,1990,GDP Per Capita,9756.30575720589
-805,Malta,Europe,2000,GDP Per Capita,20928.4734220958
-806,Marshall Islands,Oceania,1970,GDP Per Capita,834.38356740664
-807,Marshall Islands,Oceania,1980,GDP Per Capita,1633.30168044812
-808,Marshall Islands,Oceania,1990,GDP Per Capita,2143.327413902
-809,Marshall Islands,Oceania,2000,GDP Per Capita,2402.24968344558
-810,Mauritania,Africa,1990,GDP Per Capita,757.809078360693
-811,Mauritania,Africa,2000,GDP Per Capita,1418.94082542364
-812,Mauritius,Africa,1970,GDP Per Capita,1378.70679092182
-813,Mauritius,Africa,1980,GDP Per Capita,2102.27611139463
-814,Mauritius,Africa,1990,GDP Per Capita,3762.64477343761
-815,Mauritius,Africa,2000,GDP Per Capita,7132.64423296455
-816,Mexico,North America,1970,GDP Per Capita,2594.31079399794
-817,Mexico,North America,1980,GDP Per Capita,3173.0151395039
-818,Mexico,North America,1990,GDP Per Capita,6230.69720074254
-819,Mexico,North America,2000,GDP Per Capita,8321.85985639121
-820,Mongolia,Asia,1970,GDP Per Capita,245.636453972012
-821,Mongolia,Asia,1980,GDP Per Capita,815.531827321245
-822,Mongolia,Asia,1990,GDP Per Capita,519.422395534993
-823,Mongolia,Asia,2000,GDP Per Capita,1993.07465730398
-824,Montenegro,Europe,2000,GDP Per Capita,6589.38195455114
-825,Montenegro,Europe,1990,GDP Per Capita,2806.66803586126
-826,Morocco,Africa,1970,GDP Per Capita,974.622222908292
-827,Morocco,Africa,1980,GDP Per Capita,1110.83539769633
-828,Morocco,Africa,1990,GDP Per Capita,1481.72619025499
-829,Morocco,Africa,2000,GDP Per Capita,2965.34572190605
-830,Mozambique,Africa,1970,GDP Per Capita,573.844246153663
-831,Mozambique,Africa,1980,GDP Per Capita,273.153975907292
-832,Mozambique,Africa,1990,GDP Per Capita,344.701780596292
-833,Mozambique,Africa,2000,GDP Per Capita,531.026967161011
-834,Myanmar,Asia,1980,GDP Per Capita,149.09946997578
-835,Myanmar,Asia,1990,GDP Per Capita,158.067611231893
-836,Myanmar,Asia,2000,GDP Per Capita,730.232016907837
-837,Namibia,Africa,2000,GDP Per Capita,4292.34326640643
-838,Namibia,Africa,1990,GDP Per Capita,2034.85734345299
-839,Nauru,Oceania,2000,GDP Per Capita,5300.80926734442
-840,Nauru,Oceania,1990,GDP Per Capita,3570.95100207223
-841,Nauru,Oceania,1970,GDP Per Capita,5034.02706823436
-842,Nepal,Asia,1970,GDP Per Capita,130.418173774992
-843,Nepal,Asia,1980,GDP Per Capita,184.10896276005
-844,Nepal,Asia,1990,GDP Per Capita,222.874218169444
-845,Nepal,Asia,2000,GDP Per Capita,524.639223534909
-846,Netherlands,Europe,1970,GDP Per Capita,12796.9951509961
-847,Netherlands,Europe,1980,GDP Per Capita,17741.1474101487
-848,Netherlands,Europe,1990,GDP Per Capita,27859.1777558115
-849,Netherlands,Europe,2000,GDP Per Capita,52492.382474924
-850,New Zealand,Oceania,1970,GDP Per Capita,6681.66455326576
-851,New Zealand,Oceania,1980,GDP Per Capita,13388.5657831411
-852,New Zealand,Oceania,1990,GDP Per Capita,15007.6322322763
-853,New Zealand,Oceania,2000,GDP Per Capita,28207.7422218362
-854,Nicaragua,North America,1970,GDP Per Capita,920.533181079436
-855,Nicaragua,North America,1980,GDP Per Capita,830.254358127983
-856,Nicaragua,North America,1990,GDP Per Capita,958.406927195637
-857,Nicaragua,North America,2000,GDP Per Capita,1438.09074581137
-858,Niger,Africa,1980,GDP Per Capita,372.655784973717
-859,Niger,Africa,1990,GDP Per Capita,239.908480384252
-860,Niger,Africa,2000,GDP Per Capita,449.456664316869
-861,Nigeria,Africa,1980,GDP Per Capita,2761.68581658871
-862,Nigeria,Africa,2000,GDP Per Capita,1863.90823340049
-863,Norway,Europe,1970,GDP Per Capita,11462.3668360275
-864,Norway,Europe,1980,GDP Per Capita,24280.1023964887
-865,Norway,Europe,1990,GDP Per Capita,34786.7071923354
-866,Norway,Europe,2000,GDP Per Capita,79969.4396922595
-867,Oman,Asia,1980,GDP Per Capita,5408.03010439109
-868,Oman,Asia,1990,GDP Per Capita,7711.08050304575
-869,Oman,Asia,2000,GDP Per Capita,20557.3141468901
-870,Pakistan,Asia,1970,GDP Per Capita,333.270354587264
-871,Pakistan,Asia,1980,GDP Per Capita,439.689046706567
-872,Pakistan,Asia,1990,GDP Per Capita,519.58873206552
-873,Pakistan,Asia,2000,GDP Per Capita,880.326719998429
-874,Palau,Oceania,2000,GDP Per Capita,7494.32221433641
-875,Palau,Oceania,1990,GDP Per Capita,6414.70381776977
-876,Panama,North America,1970,GDP Per Capita,1690.80338005292
-877,Panama,North America,1980,GDP Per Capita,2585.9842632056852
-878,Panama,North America,1990,GDP Per Capita,3955.34402368915
-879,Panama,North America,2000,GDP Per Capita,7618.43844917447
-880,Papua New Guinea,Oceania,1970,GDP Per Capita,1263.70101726545
-881,Papua New Guinea,Oceania,1990,GDP Per Capita,975.408315661901
-882,Papua New Guinea,Oceania,2000,GDP Per Capita,1578.96843960642
-883,Paraguay,South America,1970,GDP Per Capita,1303.10960645527
-884,Paraguay,South America,1980,GDP Per Capita,1263.16253983948
-885,Paraguay,South America,1990,GDP Per Capita,1880.27897285301
-886,Paraguay,South America,2000,GDP Per Capita,3921.2050281587
-887,Peru,South America,1970,GDP Per Capita,733.529196821532
-888,Peru,South America,1980,GDP Per Capita,1607.17482480915
-889,Peru,South America,1990,GDP Per Capita,1912.3942358544
-890,Peru,South America,2000,GDP Per Capita,4165.92707049917
-891,Philippines,Asia,1970,GDP Per Capita,662.04654328019
-892,Philippines,Asia,1990,GDP Per Capita,1123.16356191368
-893,Philippines,Asia,2000,GDP Per Capita,1893.28162262113
-894,Poland,Europe,1970,GDP Per Capita,1369.19923099899
-895,Poland,Europe,1980,GDP Per Capita,1880.16329158978
-896,Poland,Europe,1990,GDP Per Capita,4433.08155139153
-897,Poland,Europe,2000,GDP Per Capita,11405.223333635
-898,Portugal,Europe,1970,GDP Per Capita,2748.2078820023
-899,Portugal,Europe,1980,GDP Per Capita,6047.13652322054
-900,Portugal,Europe,1990,GDP Per Capita,12451.7781944085
-901,Portugal,Europe,2000,GDP Per Capita,23008.1261461732
-902,Puerto Rico,North America,1970,GDP Per Capita,4083.49867096539
-903,Puerto Rico,North America,1980,GDP Per Capita,8157.78753121678
-904,Puerto Rico,North America,1990,GDP Per Capita,15394.2801020442
-905,Puerto Rico,North America,2000,GDP Per Capita,25778.8640039327
-906,Qatar,Asia,1980,GDP Per Capita,15197.8750981787
-907,Qatar,Asia,1990,GDP Per Capita,17651.5446818047
-908,Qatar,Asia,2000,GDP Per Capita,60734.0626113088
-909,Romania,Europe,1980,GDP Per Capita,2112.55170311951
-910,Romania,Europe,1970,GDP Per Capita,1275.47470558659
-911,Romania,Europe,1990,GDP Per Capita,1631.34222044833
-912,Romania,Europe,2000,GDP Per Capita,8506.7704183449
-913,Russian Federation,Europe,2000,GDP Per Capita,8623.8036670827
-914,Russian Federation,Europe,1990,GDP Per Capita,3878.64558197748
-915,Rwanda,Africa,1970,GDP Per Capita,58.4666318310897
-916,Rwanda,Africa,1990,GDP Per Capita,332.656380406473
-917,Rwanda,Africa,2000,GDP Per Capita,564.678936026227
-918,Samoa,Oceania,1970,GDP Per Capita,686.392510117851
-919,Samoa,Oceania,1980,GDP Per Capita,670.430335521095
-920,Samoa,Oceania,1990,GDP Per Capita,1295.72103310604
-921,Samoa,Oceania,2000,GDP Per Capita,3565.14067059782
-922,Sao Tome and Principe,Africa,1980,GDP Per Capita,822.183581009606
-923,Sao Tome and Principe,Africa,1990,GDP Per Capita,942.751823102417
-924,Sao Tome and Principe,Africa,2000,GDP Per Capita,1054.41620063238
-925,Saudi Arabia,Asia,1990,GDP Per Capita,7697.27195331417
-926,Saudi Arabia,Asia,2000,GDP Per Capita,15064.631309859
-927,Senegal,Africa,1970,GDP Per Capita,697.117471767494
-928,Senegal,Africa,1980,GDP Per Capita,890.228990910267
-929,Senegal,Africa,1990,GDP Per Capita,999.223448728609
-930,Senegal,Africa,2000,GDP Per Capita,1318.66378158498
-931,Serbia,Europe,1990,GDP Per Capita,2163.86365954271
-932,Serbia,Europe,2000,GDP Per Capita,5874.43993537143
-933,Seychelles,Africa,1980,GDP Per Capita,2642.10416335793
-934,Seychelles,Africa,1990,GDP Per Capita,9533.93928166812
-935,Seychelles,Africa,2000,GDP Per Capita,9183.68380456839
-936,Sierra Leone,Africa,1970,GDP Per Capita,358.000475421304
-937,Sierra Leone,Africa,1980,GDP Per Capita,261.94213453178503
-938,Sierra Leone,Africa,1990,GDP Per Capita,203.28714048957
-939,Sierra Leone,Africa,2000,GDP Per Capita,392.006674751954
-940,Singapore,Asia,1970,GDP Per Capita,4122.61327055962
-941,Singapore,Asia,1980,GDP Per Capita,10671.8832545701
-942,Singapore,Asia,1990,GDP Per Capita,21754.0098450548
-943,Singapore,Asia,2000,GDP Per Capita,38747.1145815222
-944,Slovenia,Europe,1990,GDP Per Capita,11434.0979184133
-945,Slovenia,Europe,2000,GDP Per Capita,24621.413841575
-946,Solomon Islands,Oceania,1980,GDP Per Capita,532.880783049882
-947,Solomon Islands,Oceania,1990,GDP Per Capita,1064.80735449979
-948,Somalia,Africa,1970,GDP Per Capita,95.6578535613616
-949,Somalia,Africa,1980,GDP Per Capita,127.376288900432
-950,Somalia,Africa,2000,GDP Per Capita,251.371291702842
-951,South Africa,Africa,2000,GDP Per Capita,3241.66124019474
-952,South Africa,Africa,1970,GDP Per Capita,2030.75149052014
-953,South Africa,Africa,1990,GDP Per Capita,2926.44063688943
-954,Spain,Europe,1970,GDP Per Capita,5770.16140331981
-955,Spain,Europe,1980,GDP Per Capita,10677.1330274681
-956,Spain,Europe,1990,GDP Per Capita,15654.6565146925
-957,Spain,Europe,2000,GDP Per Capita,32037.2091902656
-958,Sri Lanka,Asia,1970,GDP Per Capita,276.713342906569
-959,Sri Lanka,Asia,1980,GDP Per Capita,485.219230306639
-960,Sri Lanka,Asia,2000,GDP Per Capita,1419.75003477059
-961,Sri Lanka,Asia,1990,GDP Per Capita,686.462577942977
-962,Suriname,South America,1970,GDP Per Capita,2841.63315264361
-963,Suriname,South America,1980,GDP Per Capita,1846.98575555732
-964,Suriname,South America,1990,GDP Per Capita,2491.66036552019
-965,Suriname,South America,2000,GDP Per Capita,7300.87435451753
-966,Sweden,Europe,1970,GDP Per Capita,14872.9989227747
-967,Sweden,Europe,1980,GDP Per Capita,25626.0545433849
-968,Sweden,Europe,1990,GDP Per Capita,30972.4356601415
-969,Sweden,Europe,2000,GDP Per Capita,46932.2156879948
-970,Switzerland,Europe,1970,GDP Per Capita,18281.1639658854
-971,Switzerland,Europe,1980,GDP Per Capita,31337.8193310986
-972,Switzerland,Europe,1990,GDP Per Capita,41797.9763925693
-973,Switzerland,Europe,2000,GDP Per Capita,72168.2506953755
-974,Tajikistan,Asia,1990,GDP Per Capita,173.631722008596
-975,Tajikistan,Asia,2000,GDP Per Capita,666.708362401642
-976,Thailand,Asia,1970,GDP Per Capita,637.501825567782
-977,Thailand,Asia,1980,GDP Per Capita,1378.29368575885
-978,Thailand,Asia,1990,GDP Per Capita,1841.04293314729
-979,Thailand,Asia,2000,GDP Per Capita,4154.18614182554
-980,Timor-Leste,Asia,2000,GDP Per Capita,682.172080822869
-981,Togo,Africa,1970,GDP Per Capita,427.714484617436
-982,Togo,Africa,1980,GDP Per Capita,453.873865821285
-983,Togo,Africa,1990,GDP Per Capita,360.519318217407
-984,Tonga,Oceania,1970,GDP Per Capita,605.26057668587
-985,Tonga,Oceania,1980,GDP Per Capita,1541.15086788847
-986,Tonga,Oceania,1990,GDP Per Capita,1933.35618655192
-987,Tonga,Oceania,2000,GDP Per Capita,3151.95031465201
-988,Trinidad and Tobago,North America,1970,GDP Per Capita,4367.67929273996
-989,Trinidad and Tobago,North America,1980,GDP Per Capita,3632.55070241628
-990,Trinidad and Tobago,North America,1990,GDP Per Capita,4301.26554189992
-991,Trinidad and Tobago,North America,2000,GDP Per Capita,14445.2140111783
-992,Tunisia,Africa,1970,GDP Per Capita,1230.12201758145
-993,Tunisia,Africa,1980,GDP Per Capita,1343.29615060732
-994,Tunisia,Africa,1990,GDP Per Capita,2344.00574518984
-995,Tunisia,Africa,2000,GDP Per Capita,4029.46120631103
-996,Turkmenistan,Asia,1990,GDP Per Capita,856.888554260673
-997,Turkmenistan,Asia,2000,GDP Per Capita,3901.67028309872
-998,Tuvalu,Oceania,1970,GDP Per Capita,529.470726804929
-999,Tuvalu,Oceania,1990,GDP Per Capita,1429.69409132325
-1000,Uganda,Africa,1980,GDP Per Capita,419.134773509108
-1001,Uganda,Africa,1990,GDP Per Capita,305.601526235194
-1002,Uganda,Africa,2000,GDP Per Capita,793.279606625486
-1003,Ukraine,Europe,2000,GDP Per Capita,2650.28029993595
-1004,United Arab Emirates,Asia,1980,GDP Per Capita,23443.4129024975
-1005,United Arab Emirates,Asia,1990,GDP Per Capita,27618.1505688275
-1006,United Arab Emirates,Asia,2000,GDP Per Capita,32137.1447460508
-1007,Uruguay,South America,1970,GDP Per Capita,2617.82511239995
-1008,Uruguay,South America,1980,GDP Per Capita,2777.29414303375
-1009,Uruguay,South America,1990,GDP Per Capita,7314.486924295
-1010,Uruguay,South America,2000,GDP Per Capita,9467.5352793624
-1011,Uzbekistan,Asia,1990,GDP Per Capita,833.560402021839
-1012,Uzbekistan,Asia,2000,GDP Per Capita,1501.04345640077
-1013,Vanuatu,Oceania,1970,GDP Per Capita,1131.32807962346
-1014,Vanuatu,Oceania,1980,GDP Per Capita,1073.64865217008
-1015,Zambia,Africa,1990,GDP Per Capita,493.70445580168
-1016,Zambia,Africa,2000,GDP Per Capita,1150.93892148996
-1017,Zimbabwe,Africa,2000,GDP Per Capita,762.297957461508
-1018,Zimbabwe,Africa,1990,GDP Per Capita,1340.74301023355
-1019,Zimbabwe,Africa,1980,GDP Per Capita,1070.46136109319
+0,Afghanistan,Asia,1970,life_exp,41.228
+1,Afghanistan,Asia,2000,life_exp,60.364
+2,Albania,Europe,1970,life_exp,69.584
+3,Albania,Europe,1980,life_exp,72.88
+4,Albania,Europe,1990,life_exp,75.183
+5,Albania,Europe,2000,life_exp,77.781
+6,Algeria,Africa,1970,life_exp,51.755
+7,Algeria,Africa,1980,life_exp,67.085
+8,Algeria,Africa,1990,life_exp,70.032
+9,Algeria,Africa,2000,life_exp,73.62
+10,Angola,Africa,2000,life_exp,55.752
+11,Antigua and Barbuda,North America,1970,life_exp,73.035
+12,Antigua and Barbuda,North America,1980,life_exp,73.566
+13,Antigua and Barbuda,North America,1990,life_exp,74.347
+14,Antigua and Barbuda,North America,2000,life_exp,76.669
+15,Argentina,South America,1970,life_exp,68.491
+16,Argentina,South America,1980,life_exp,71.425
+17,Argentina,South America,1990,life_exp,73.722
+18,Argentina,South America,2000,life_exp,75.936
+19,Armenia,Europe,1990,life_exp,70.514
+20,Armenia,Europe,2000,life_exp,72.813
+21,Aruba,North America,1970,life_exp,70.778
+22,Aruba,North America,1980,life_exp,73.047
+23,Aruba,North America,1990,life_exp,73.561
+24,Aruba,North America,2000,life_exp,74.56
+25,Australia,Oceania,1970,life_exp,74.0039024390244
+26,Australia,Oceania,1980,life_exp,76.7136585365854
+27,Australia,Oceania,1990,life_exp,78.9317073170732
+28,Australia,Oceania,2000,life_exp,81.5439024390244
+29,Austria,Europe,1970,life_exp,72.3121951219512
+30,Austria,Europe,1980,life_exp,75.2658536585366
+31,Austria,Europe,1990,life_exp,77.8756097560976
+32,Austria,Europe,2000,life_exp,80.4317073170732
+33,Azerbaijan,Europe,1990,life_exp,64.189
+34,Azerbaijan,Europe,2000,life_exp,69.356
+35,Bahrain,Asia,1970,life_exp,70.456
+36,Bahrain,Asia,1980,life_exp,72.619
+37,Bahrain,Asia,1990,life_exp,74.98
+38,Bahrain,Asia,2000,life_exp,78.461
+39,Bangladesh,Asia,1970,life_exp,51.464
+40,Bangladesh,Asia,1980,life_exp,55.089
+41,Bangladesh,Asia,1990,life_exp,66.228
+42,Bangladesh,Asia,2000,life_exp,67.403
+43,Barbados,North America,1970,life_exp,71.526
+44,Barbados,North America,1980,life_exp,72.74
+45,Barbados,North America,1990,life_exp,74.039
+46,Barbados,North America,2000,life_exp,75.678
+47,Belarus,Europe,2000,life_exp,70.4560975609756
+48,Belarus,Europe,1990,life_exp,70.8365853658537
+49,Belgium,Europe,1970,life_exp,73.1936585365854
+50,Belgium,Europe,1980,life_exp,75.6326829268293
+51,Belgium,Europe,1990,life_exp,77.619512195122
+52,Belgium,Europe,2000,life_exp,80.0341463414634
+53,Belize,North America,1970,life_exp,67.399
+54,Belize,North America,1990,life_exp,70.744
+55,Belize,North America,1980,life_exp,70.781
+56,Benin,Africa,1980,life_exp,52.684
+57,Benin,Africa,1990,life_exp,56.526
+58,Benin,Africa,2000,life_exp,57.956
+59,Bermuda,North America,1970,life_exp,73.299
+60,Bermuda,North America,1980,life_exp,74.91
+61,Bermuda,North America,1990,life_exp,79.949
+62,Bermuda,North America,2000,life_exp,81.12
+63,Bhutan,Asia,1990,life_exp,62.23
+64,Bhutan,Asia,2000,life_exp,67.897
+65,Bosnia and Herzegovina,Europe,1990,life_exp,75.076
+66,Bosnia and Herzegovina,Europe,2000,life_exp,76.976
+67,Botswana,Africa,2000,life_exp,58.279
+68,Botswana,Africa,1970,life_exp,60.176
+69,Botswana,Africa,1980,life_exp,62.678
+70,Brazil,South America,1970,life_exp,61.253
+71,Brazil,South America,1980,life_exp,65.868
+72,Brazil,South America,1990,life_exp,69.524
+73,Brazil,South America,2000,life_exp,72.948
+74,Bulgaria,Europe,1970,life_exp,71.3948780487805
+75,Bulgaria,Europe,1990,life_exp,71.6414634146342
+76,Bulgaria,Europe,1980,life_exp,71.7307317073171
+77,Bulgaria,Europe,2000,life_exp,73.4121951219512
+78,Burkina Faso,Africa,1980,life_exp,49.174
+79,Burkina Faso,Africa,1990,life_exp,50.325
+80,Burkina Faso,Africa,2000,life_exp,55.959
+81,Burundi,Africa,1970,life_exp,44.59
+82,Burundi,Africa,1990,life_exp,47.528
+83,Burundi,Africa,2000,life_exp,56.388
+84,Cambodia,Asia,1990,life_exp,57.69
+85,Cambodia,Asia,2000,life_exp,67.444
+86,Cameroon,Africa,1990,life_exp,54.868
+87,Cameroon,Africa,1980,life_exp,54.947
+88,Cameroon,Africa,2000,life_exp,56.102
+89,Canada,North America,1970,life_exp,74.8663414634146
+90,Canada,North America,1980,life_exp,77.1248780487805
+91,Canada,North America,1990,life_exp,78.8390243902439
+92,Canada,North America,2000,life_exp,81.0660975609756
+93,Central African Republic,Africa,1970,life_exp,49.597
+94,Central African Republic,Africa,1990,life_exp,49.635
+95,Central African Republic,Africa,1980,life_exp,50.518
+96,Chad,Africa,1990,life_exp,47.372
+97,Chad,Africa,2000,life_exp,49.196
+98,Chile,South America,1970,life_exp,68.186
+99,Chile,South America,1980,life_exp,72.54
+100,Chile,South America,1990,life_exp,76.018
+101,Chile,South America,2000,life_exp,78.741
+102,Colombia,South America,1970,life_exp,66.38
+103,Colombia,South America,1980,life_exp,68.533
+104,Colombia,South America,1990,life_exp,70.926
+105,Colombia,South America,2000,life_exp,74.742
+106,Comoros,Africa,1980,life_exp,55.224
+107,Comoros,Africa,1990,life_exp,58.781
+108,Costa Rica,North America,1970,life_exp,72.423
+109,Costa Rica,North America,1980,life_exp,76.263
+110,Costa Rica,North America,1990,life_exp,77.138
+111,Costa Rica,North America,2000,life_exp,78.672
+112,Croatia,Europe,1990,life_exp,72.6419512195122
+113,Croatia,Europe,2000,life_exp,76.1682926829268
+114,Cuba,North America,1970,life_exp,72.447
+115,Cuba,North America,1980,life_exp,73.981
+116,Cuba,North America,1990,life_exp,75.893
+117,Cuba,North America,2000,life_exp,77.548
+118,Cyprus,Europe,1970,life_exp,71.895
+119,Cyprus,Europe,1980,life_exp,73.48
+120,Cyprus,Europe,1990,life_exp,76.295
+121,Cyprus,Europe,2000,life_exp,79.401
+122,Denmark,Europe,1970,life_exp,74.6324390243903
+123,Denmark,Europe,1980,life_exp,74.799756097561
+124,Denmark,Europe,1990,life_exp,76.3414634146341
+125,Denmark,Europe,2000,life_exp,78.5975609756098
+126,Djibouti,Africa,1990,life_exp,56.427
+127,Dominica,North America,1970,life_exp,70.97
+128,Dominica,North America,1990,life_exp,71.634
+129,Dominica,North America,2000,life_exp,73.305
+130,Dominica,North America,1980,life_exp,73.521
+131,Dominican Republic,North America,1970,life_exp,60.822
+132,Dominican Republic,North America,1990,life_exp,69.279
+133,Dominican Republic,North America,2000,life_exp,71.871
+134,Ecuador,South America,1970,life_exp,62.696
+135,Ecuador,South America,1980,life_exp,68.749
+136,Ecuador,South America,1990,life_exp,72.463
+137,Ecuador,South America,2000,life_exp,75.184
+138,El Salvador,North America,1970,life_exp,54.875
+139,El Salvador,North America,1980,life_exp,61.476
+140,El Salvador,North America,1990,life_exp,69.379
+141,El Salvador,North America,2000,life_exp,71.576
+142,Equatorial Guinea,Africa,1980,life_exp,50.668
+143,Equatorial Guinea,Africa,1990,life_exp,52.752
+144,Equatorial Guinea,Africa,2000,life_exp,57.431
+145,Eritrea,Africa,1990,life_exp,56.312
+146,Estonia,Europe,1990,life_exp,70.0634146341463
+147,Estonia,Europe,2000,life_exp,74.8243902439024
+148,Ethiopia,Africa,1990,life_exp,49.927
+149,Ethiopia,Africa,2000,life_exp,58.804
+150,Fiji,Oceania,1970,life_exp,62.941
+151,Fiji,Oceania,1980,life_exp,65.277
+152,Fiji,Oceania,1990,life_exp,66.763
+153,Fiji,Oceania,2000,life_exp,67.089
+154,Finland,Europe,1970,life_exp,73.1553658536586
+155,Finland,Europe,1980,life_exp,74.7921951219512
+156,Finland,Europe,1990,life_exp,77.2912195121951
+157,Finland,Europe,2000,life_exp,79.719512195122
+158,France,Europe,1970,life_exp,73.8512195121951
+159,France,Europe,1980,life_exp,76.3487804878049
+160,France,Europe,1990,life_exp,78.7560975609756
+161,France,Europe,2000,life_exp,81.4146341463415
+162,Gabon,Africa,1990,life_exp,60.849
+163,Georgia,Europe,1990,life_exp,69.319
+164,Georgia,Europe,2000,life_exp,71.95
+165,Germany,Europe,1970,life_exp,72.6301707317073
+166,Germany,Europe,1980,life_exp,75.1915365853659
+167,Germany,Europe,1990,life_exp,77.7268292682927
+168,Germany,Europe,2000,life_exp,79.8365853658537
+169,Ghana,Africa,1970,life_exp,50.932
+170,Ghana,Africa,1990,life_exp,58.03
+171,Ghana,Africa,2000,life_exp,60.946
+172,Greece,Europe,1970,life_exp,74.6210731707317
+173,Greece,Europe,1980,life_exp,76.980756097561
+174,Greece,Europe,1990,life_exp,78.1365853658537
+175,Greece,Europe,2000,life_exp,80.1878048780488
+176,Grenada,North America,1970,life_exp,68.151
+177,Grenada,North America,1980,life_exp,70.419
+178,Grenada,North America,1990,life_exp,72.903
+179,Guatemala,North America,1970,life_exp,56.185
+180,Guatemala,North America,1980,life_exp,62.374
+181,Guatemala,North America,1990,life_exp,66.869
+182,Guatemala,North America,2000,life_exp,70.641
+183,Guinea,Africa,1980,life_exp,46.847
+184,Guinea,Africa,1990,life_exp,52.356
+185,Guinea,Africa,2000,life_exp,56.348
+186,Guyana,South America,1970,life_exp,61.133
+187,Guyana,South America,1980,life_exp,62.238
+188,Guyana,South America,1990,life_exp,64.17
+189,Guyana,South America,2000,life_exp,66.563
+190,Haiti,North America,1970,life_exp,49.675
+191,Haiti,North America,1980,life_exp,52.755
+192,Haiti,North America,1990,life_exp,57.961
+193,Haiti,North America,2000,life_exp,61.741
+194,Honduras,North America,1970,life_exp,59.908
+195,Honduras,North America,1980,life_exp,64.856
+196,Honduras,North America,1990,life_exp,68.422
+197,Hungary,Europe,1970,life_exp,69.8480487804878
+198,Hungary,Europe,1980,life_exp,70.0234146341463
+199,Hungary,Europe,1990,life_exp,70.7024390243902
+200,Hungary,Europe,2000,life_exp,73.9048780487805
+201,Iceland,Europe,1970,life_exp,76.9721951219512
+202,Iceland,Europe,1980,life_exp,78.1409756097561
+203,Iceland,Europe,1990,life_exp,79.6024390243903
+204,Iceland,Europe,2000,life_exp,81.7512195121951
+205,India,Asia,1970,life_exp,53.06
+206,India,Asia,1980,life_exp,58.233
+207,India,Asia,1990,life_exp,62.207
+208,India,Asia,2000,life_exp,66.513
+209,Indonesia,Asia,1970,life_exp,58.153
+210,Indonesia,Asia,1980,life_exp,62.696
+211,Indonesia,Asia,1990,life_exp,66.221
+212,Indonesia,Asia,2000,life_exp,68.494
+213,Iraq,Asia,1970,life_exp,64.791
+214,Iraq,Asia,1990,life_exp,66.897
+215,Iraq,Asia,2000,life_exp,67.084
+216,Ireland,Europe,1970,life_exp,72.2680243902439
+217,Ireland,Europe,1980,life_exp,74.4552195121951
+218,Ireland,Europe,1990,life_exp,76.1804878048781
+219,Ireland,Europe,2000,life_exp,80.190243902439
+220,Israel,Asia,1970,life_exp,73.5073170731707
+221,Israel,Asia,1980,life_exp,76.3073170731707
+222,Israel,Asia,1990,life_exp,78.6585365853659
+223,Israel,Asia,2000,life_exp,81.4048780487805
+224,Italy,Europe,1970,life_exp,74.0026829268293
+225,Italy,Europe,1980,life_exp,76.819512195122
+226,Italy,Europe,1990,life_exp,79.4243902439024
+227,Italy,Europe,2000,life_exp,81.6365853658537
+228,Jamaica,North America,1970,life_exp,69.048
+229,Jamaica,North America,2000,life_exp,72.124
+230,Jamaica,North America,1980,life_exp,72.157
+231,Jamaica,North America,1990,life_exp,72.304
+232,Japan,Asia,1970,life_exp,76.1087804878049
+233,Japan,Asia,1980,life_exp,78.7685365853659
+234,Japan,Asia,1990,life_exp,80.5014634146342
+235,Japan,Asia,2000,life_exp,82.9314634146342
+236,Jordan,Asia,1970,life_exp,65.851
+237,Jordan,Asia,1980,life_exp,69.57
+238,Jordan,Asia,1990,life_exp,71.694
+239,Jordan,Asia,2000,life_exp,73.801
+240,Kazakhstan,Asia,1990,life_exp,68.3365853658537
+241,Kazakhstan,Asia,2000,life_exp,68.39
+242,Kenya,Africa,1990,life_exp,58.614
+243,Kenya,Africa,2000,life_exp,60.365
+244,Kenya,Africa,1980,life_exp,61.165
+245,Kiribati,Oceania,1970,life_exp,57.083
+246,Kiribati,Oceania,1980,life_exp,60.408
+247,Kiribati,Oceania,1990,life_exp,64.136
+248,Kiribati,Oceania,2000,life_exp,64.989
+249,Kuwait,Asia,1970,life_exp,69.677
+250,Kuwait,Asia,1980,life_exp,74.826
+251,Kuwait,Asia,1990,life_exp,76.416
+252,Kuwait,Asia,2000,life_exp,77.442
+253,Latvia,Europe,1990,life_exp,69.7429268292683
+254,Latvia,Europe,2000,life_exp,73.0804878048781
+255,Lebanon,Asia,1970,life_exp,67.294
+256,Lebanon,Asia,1990,life_exp,73.49
+257,Lesotho,Africa,2000,life_exp,48.427
+258,Lesotho,Africa,1970,life_exp,55.338
+259,Lesotho,Africa,1990,life_exp,59.398
+260,Lesotho,Africa,1980,life_exp,59.62
+261,Liberia,Africa,1980,life_exp,45.436
+262,Liberia,Africa,2000,life_exp,59.194
+263,Libya,Africa,1970,life_exp,64.26
+264,Libya,Africa,1980,life_exp,68.99
+265,Libya,Africa,1990,life_exp,71.284
+266,Libya,Africa,2000,life_exp,72.356
+267,Liechtenstein,Europe,1990,life_exp,79.109756097561
+268,Liechtenstein,Europe,2000,life_exp,82.6829268292683
+269,Lithuania,Europe,1990,life_exp,71.5707317073171
+270,Lithuania,Europe,2000,life_exp,72.9146341463415
+271,Luxembourg,Europe,1970,life_exp,72.3307804878049
+272,Luxembourg,Europe,1980,life_exp,74.7882195121951
+273,Luxembourg,Europe,1990,life_exp,77.7707317073171
+274,Luxembourg,Europe,2000,life_exp,80.6365853658537
+275,Madagascar,Africa,1970,life_exp,49.851
+276,Madagascar,Africa,1990,life_exp,57.372
+277,Madagascar,Africa,2000,life_exp,62.734
+278,Malawi,Africa,1990,life_exp,43.641
+279,Malawi,Africa,1970,life_exp,44.268
+280,Malawi,Africa,1980,life_exp,46.038
+281,Malawi,Africa,2000,life_exp,55.448
+282,Malaysia,Asia,1970,life_exp,67.762
+283,Malaysia,Asia,1980,life_exp,71.117
+284,Malaysia,Asia,1990,life_exp,72.384
+285,Malaysia,Asia,2000,life_exp,74.25
+286,Maldives,Asia,1970,life_exp,54.676
+287,Maldives,Asia,1980,life_exp,62.847
+288,Maldives,Asia,1990,life_exp,70.088
+289,Maldives,Asia,2000,life_exp,77.069
+290,Mali,Africa,1980,life_exp,45.877
+291,Mali,Africa,1990,life_exp,49.797
+292,Malta,Europe,1970,life_exp,71.8942682926829
+293,Malta,Europe,1980,life_exp,75.3041219512195
+294,Malta,Europe,1990,life_exp,77.7390243902439
+295,Malta,Europe,2000,life_exp,80.2414634146342
+296,Marshall Islands,Oceania,1970,life_exp,60.874
+297,Marshall Islands,Oceania,1980,life_exp,62.19
+298,Marshall Islands,Oceania,1990,life_exp,63.48
+299,Marshall Islands,Oceania,2000,life_exp,63.745
+300,Mauritania,Africa,1990,life_exp,60.819
+301,Mauritania,Africa,2000,life_exp,62.8
+302,Mauritius,Africa,1970,life_exp,65.3064390243902
+303,Mauritius,Africa,1980,life_exp,68.95
+304,Mauritius,Africa,1990,life_exp,70.9609756097561
+305,Mauritius,Africa,2000,life_exp,72.8824390243903
+306,Mexico,North America,1970,life_exp,64.189
+307,Mexico,North America,1980,life_exp,69.623
+308,Mexico,North America,1990,life_exp,73.225
+309,Mexico,North America,2000,life_exp,74.376
+310,Mongolia,Asia,1970,life_exp,55.65
+311,Mongolia,Asia,1980,life_exp,58.344
+312,Mongolia,Asia,1990,life_exp,62.529
+313,Mongolia,Asia,2000,life_exp,66.766
+314,Montenegro,Europe,2000,life_exp,75.1439024390244
+315,Montenegro,Europe,1990,life_exp,75.6826097560976
+316,Morocco,Africa,1970,life_exp,54.351
+317,Morocco,Africa,1980,life_exp,61.899
+318,Morocco,Africa,1990,life_exp,66.406
+319,Morocco,Africa,2000,life_exp,70.458
+320,Mozambique,Africa,1970,life_exp,42.795
+321,Mozambique,Africa,1980,life_exp,44.143
+322,Mozambique,Africa,1990,life_exp,48.812
+323,Mozambique,Africa,2000,life_exp,53.788
+324,Myanmar,Asia,1980,life_exp,56.565
+325,Myanmar,Asia,1990,life_exp,59.881
+326,Myanmar,Asia,2000,life_exp,63.155
+327,Namibia,Africa,2000,life_exp,55.496
+328,Namibia,Africa,1990,life_exp,62.496
+329,Nauru,Oceania,2000,life_exp,59.123
+330,Nauru,Oceania,1990,life_exp,61.463
+331,Nauru,Oceania,1970,life_exp,61.538
+332,Nepal,Asia,1970,life_exp,47.266
+333,Nepal,Asia,1980,life_exp,54.127
+334,Nepal,Asia,1990,life_exp,62.113
+335,Nepal,Asia,2000,life_exp,66.761
+336,Netherlands,Europe,1970,life_exp,75.6060975609756
+337,Netherlands,Europe,1980,life_exp,76.890243902439
+338,Netherlands,Europe,1990,life_exp,77.8829268292683
+339,Netherlands,Europe,2000,life_exp,80.5487804878049
+340,New Zealand,Oceania,1970,life_exp,73.0682926829269
+341,New Zealand,Oceania,1980,life_exp,74.8243902439024
+342,New Zealand,Oceania,1990,life_exp,78.0853658536585
+343,New Zealand,Oceania,2000,life_exp,80.7024390243902
+344,Nicaragua,North America,1970,life_exp,56.299
+345,Nicaragua,North America,1980,life_exp,62.475
+346,Nicaragua,North America,1990,life_exp,67.12
+347,Nicaragua,North America,2000,life_exp,71.433
+348,Niger,Africa,1980,life_exp,41.221
+349,Niger,Africa,1990,life_exp,48.738
+350,Niger,Africa,2000,life_exp,57.396
+351,Nigeria,Africa,1980,life_exp,46.638
+352,Nigeria,Africa,2000,life_exp,50.712
+353,Norway,Europe,1970,life_exp,75.4185365853659
+354,Norway,Europe,1980,life_exp,76.500487804878
+355,Norway,Europe,1990,life_exp,78.3292682926829
+356,Norway,Europe,2000,life_exp,80.7951219512195
+357,Oman,Asia,1980,life_exp,69.156
+358,Oman,Asia,1990,life_exp,73.184
+359,Oman,Asia,2000,life_exp,74.681
+360,Pakistan,Asia,1970,life_exp,57.146
+361,Pakistan,Asia,1980,life_exp,59.62
+362,Pakistan,Asia,1990,life_exp,61.679
+363,Pakistan,Asia,2000,life_exp,64.14
+364,Palau,Oceania,2000,life_exp,70.4936585365854
+365,Palau,Oceania,1990,life_exp,71.8446341463415
+366,Panama,North America,1970,life_exp,68.989
+367,Panama,North America,1980,life_exp,70.888
+368,Panama,North America,1990,life_exp,73.622
+369,Panama,North America,2000,life_exp,76.343
+370,Papua New Guinea,Oceania,1970,life_exp,57.003
+371,Papua New Guinea,Oceania,1990,life_exp,61.672
+372,Papua New Guinea,Oceania,2000,life_exp,62.788
+373,Paraguay,South America,1970,life_exp,64.448
+374,Paraguay,South America,1980,life_exp,67.469
+375,Paraguay,South America,1990,life_exp,69.634
+376,Paraguay,South America,2000,life_exp,71.635
+377,Peru,South America,1970,life_exp,59.303
+378,Peru,South America,1980,life_exp,64.352
+379,Peru,South America,1990,life_exp,69.743
+380,Peru,South America,2000,life_exp,73.466
+381,Philippines,Asia,1970,life_exp,62.349
+382,Philippines,Asia,1990,life_exp,69.298
+383,Philippines,Asia,2000,life_exp,70.633
+384,Poland,Europe,1970,life_exp,71.1170731707317
+385,Poland,Europe,1980,life_exp,71.3317073170732
+386,Poland,Europe,1990,life_exp,73.0439024390244
+387,Poland,Europe,2000,life_exp,75.6951219512195
+388,Portugal,Europe,1970,life_exp,71.1682926829268
+389,Portugal,Europe,1980,life_exp,74.2658536585366
+390,Portugal,Europe,1990,life_exp,75.9634146341463
+391,Portugal,Europe,2000,life_exp,78.7268292682927
+392,Puerto Rico,North America,1970,life_exp,73.04
+393,Puerto Rico,North America,1980,life_exp,73.853
+394,Puerto Rico,North America,1990,life_exp,75.536
+395,Puerto Rico,North America,2000,life_exp,77.877
+396,Qatar,Asia,1980,life_exp,73.594
+397,Qatar,Asia,1990,life_exp,74.809
+398,Qatar,Asia,2000,life_exp,77.878
+399,Romania,Europe,1980,life_exp,69.7263414634147
+400,Romania,Europe,1970,life_exp,69.7419512195122
+401,Romania,Europe,1990,life_exp,70.5121951219512
+402,Romania,Europe,2000,life_exp,73.309756097561
+403,Russian Federation,Europe,2000,life_exp,68.6846341463415
+404,Russian Federation,Europe,1990,life_exp,68.8860975609756
+405,Rwanda,Africa,1970,life_exp,47.153
+406,Rwanda,Africa,1990,life_exp,48.431
+407,Rwanda,Africa,2000,life_exp,61.958
+408,Samoa,Oceania,1970,life_exp,64.39
+409,Samoa,Oceania,1980,life_exp,67.471
+410,Samoa,Oceania,1990,life_exp,70.456
+411,Samoa,Oceania,2000,life_exp,72.155
+412,Sao Tome and Principe,Africa,1980,life_exp,61.334
+413,Sao Tome and Principe,Africa,1990,life_exp,61.471
+414,Sao Tome and Principe,Africa,2000,life_exp,65.116
+415,Saudi Arabia,Asia,1990,life_exp,72.136
+416,Saudi Arabia,Asia,2000,life_exp,75.431
+417,Senegal,Africa,1970,life_exp,48.196
+418,Senegal,Africa,1980,life_exp,56.438
+419,Senegal,Africa,1990,life_exp,57.139
+420,Senegal,Africa,2000,life_exp,63.923
+421,Serbia,Europe,1990,life_exp,71.6894878048781
+422,Serbia,Europe,2000,life_exp,73.9853658536585
+423,Seychelles,Africa,1980,life_exp,70.3829268292683
+424,Seychelles,Africa,1990,life_exp,72.6682926829268
+425,Seychelles,Africa,2000,life_exp,73.2536585365854
+426,Sierra Leone,Africa,1970,life_exp,42.873
+427,Sierra Leone,Africa,1980,life_exp,44.047
+428,Sierra Leone,Africa,1990,life_exp,44.057
+429,Sierra Leone,Africa,2000,life_exp,52.626
+430,Singapore,Asia,1970,life_exp,71.6392195121951
+431,Singapore,Asia,1980,life_exp,74.9463414634146
+432,Singapore,Asia,1990,life_exp,77.5512195121951
+433,Singapore,Asia,2000,life_exp,81.2414634146342
+434,Slovenia,Europe,1990,life_exp,75.009756097561
+435,Slovenia,Europe,2000,life_exp,78.9707317073171
+436,Solomon Islands,Oceania,1980,life_exp,65.186
+437,Solomon Islands,Oceania,1990,life_exp,67.069
+438,Somalia,Africa,1970,life_exp,47.305
+439,Somalia,Africa,1980,life_exp,48.903
+440,Somalia,Africa,2000,life_exp,51.853
+441,South Africa,Africa,2000,life_exp,58.47
+442,South Africa,Africa,1970,life_exp,59.395
+443,South Africa,Africa,1990,life_exp,63.375
+444,Spain,Europe,1970,life_exp,74.8187804878049
+445,Spain,Europe,1980,life_exp,76.8136585365854
+446,Spain,Europe,1990,life_exp,78.7170731707317
+447,Spain,Europe,2000,life_exp,81.4756097560976
+448,Sri Lanka,Asia,1970,life_exp,68.13
+449,Sri Lanka,Asia,1980,life_exp,71.549
+450,Sri Lanka,Asia,2000,life_exp,72.118
+451,Sri Lanka,Asia,1990,life_exp,73.052
+452,Suriname,South America,1970,life_exp,61.878
+453,Suriname,South America,1980,life_exp,64.01
+454,Suriname,South America,1990,life_exp,65.697
+455,Suriname,South America,2000,life_exp,69.505
+456,Sweden,Europe,1970,life_exp,75.5241463414634
+457,Sweden,Europe,1980,life_exp,77.7268292682927
+458,Sweden,Europe,1990,life_exp,79.4414634146342
+459,Sweden,Europe,2000,life_exp,81.3512195121951
+460,Switzerland,Europe,1970,life_exp,75.4660975609756
+461,Switzerland,Europe,1980,life_exp,77.4212195121951
+462,Switzerland,Europe,1990,life_exp,79.580487804878
+463,Switzerland,Europe,2000,life_exp,82.0439024390244
+464,Tajikistan,Asia,1990,life_exp,62.621
+465,Tajikistan,Asia,2000,life_exp,68.039
+466,Thailand,Asia,1970,life_exp,63.209
+467,Thailand,Asia,1980,life_exp,70.122
+468,Thailand,Asia,1990,life_exp,72.862
+469,Thailand,Asia,2000,life_exp,75.842
+470,Timor-Leste,Asia,2000,life_exp,64.854
+471,Togo,Africa,1970,life_exp,50.765
+472,Togo,Africa,1980,life_exp,54.39
+473,Togo,Africa,1990,life_exp,54.538
+474,Tonga,Oceania,1970,life_exp,65.782
+475,Tonga,Oceania,1980,life_exp,67.162
+476,Tonga,Oceania,1990,life_exp,68.809
+477,Tonga,Oceania,2000,life_exp,70.164
+478,Trinidad and Tobago,North America,1970,life_exp,67.768
+479,Trinidad and Tobago,North America,1980,life_exp,68.438
+480,Trinidad and Tobago,North America,1990,life_exp,69.17
+481,Trinidad and Tobago,North America,2000,life_exp,73.126
+482,Tunisia,Africa,1970,life_exp,63.211
+483,Tunisia,Africa,1980,life_exp,69.671
+484,Tunisia,Africa,1990,life_exp,73.508
+485,Tunisia,Africa,2000,life_exp,75.267
+486,Turkmenistan,Asia,1990,life_exp,64.518
+487,Turkmenistan,Asia,2000,life_exp,67.958
+488,Tuvalu,Oceania,1970,life_exp,60.506
+489,Tuvalu,Oceania,1990,life_exp,63.427
+490,Uganda,Africa,1980,life_exp,46.701
+491,Uganda,Africa,1990,life_exp,47.786
+492,Uganda,Africa,2000,life_exp,56.488
+493,Ukraine,Europe,2000,life_exp,69.19
+494,United Arab Emirates,Asia,1980,life_exp,71.757
+495,United Arab Emirates,Asia,1990,life_exp,73.67
+496,United Arab Emirates,Asia,2000,life_exp,78.003
+497,Uruguay,South America,1970,life_exp,70.279
+498,Uruguay,South America,1980,life_exp,73.002
+499,Uruguay,South America,1990,life_exp,74.769
+500,Uruguay,South America,2000,life_exp,76.738
+501,Uzbekistan,Asia,1990,life_exp,65.383
+502,Uzbekistan,Asia,2000,life_exp,68.871
+503,Vanuatu,Oceania,1970,life_exp,60.446
+504,Vanuatu,Oceania,1980,life_exp,66.134
+505,Zambia,Africa,1990,life_exp,47.926
+506,Zambia,Africa,2000,life_exp,55.3
+507,Zimbabwe,Africa,2000,life_exp,48.063
+508,Zimbabwe,Africa,1990,life_exp,59.426
+509,Zimbabwe,Africa,1980,life_exp,62.023
+510,Afghanistan,Asia,1970,GDP_Per_Capita,225.811558117818
+511,Afghanistan,Asia,2000,GDP_Per_Capita,423.407101823935
+512,Albania,Europe,1970,GDP_Per_Capita,821.218507999472
+513,Albania,Europe,1980,GDP_Per_Capita,895.924262148216
+514,Albania,Europe,1990,GDP_Per_Capita,1004.17988730455
+515,Albania,Europe,2000,GDP_Per_Capita,4109.89315287614
+516,Algeria,Africa,1970,GDP_Per_Capita,1827.57019502987
+517,Algeria,Africa,1980,GDP_Per_Capita,2223.60679692309
+518,Algeria,Africa,1990,GDP_Per_Capita,1599.25192839523
+519,Algeria,Africa,2000,GDP_Per_Capita,3898.47892309037
+520,Angola,Africa,2000,GDP_Per_Capita,3123.69875363117
+521,Antigua and Barbuda,North America,1970,GDP_Per_Capita,1744.06735559717
+522,Antigua and Barbuda,North America,1980,GDP_Per_Capita,3763.04974218469
+523,Antigua and Barbuda,North America,1990,GDP_Per_Capita,10379.1604015118
+524,Antigua and Barbuda,North America,2000,GDP_Per_Capita,14530.5986896353
+525,Argentina,South America,1970,GDP_Per_Capita,2679.6671289786
+526,Argentina,South America,1980,GDP_Per_Capita,2581.76530451724
+527,Argentina,South America,1990,GDP_Per_Capita,8387.03249452985
+528,Argentina,South America,2000,GDP_Per_Capita,8267.53994660745
+529,Armenia,Europe,1990,GDP_Per_Capita,622.688397271085
+530,Armenia,Europe,2000,GDP_Per_Capita,3111.1456974399
+531,Aruba,North America,1970,GDP_Per_Capita,5086.33420229471
+532,Aruba,North America,1980,GDP_Per_Capita,10372.9630804865
+533,Aruba,North America,1990,GDP_Per_Capita,20782.619496716
+534,Aruba,North America,2000,GDP_Per_Capita,25740.7702303087
+535,Australia,Oceania,1970,GDP_Per_Capita,10362.1390419826
+536,Australia,Oceania,1980,GDP_Per_Capita,19053.2333744409
+537,Australia,Oceania,1990,GDP_Per_Capita,22723.0591553695
+538,Australia,Oceania,2000,GDP_Per_Capita,46952.0905196545
+539,Austria,Europe,1970,GDP_Per_Capita,9796.75067678717
+540,Austria,Europe,1980,GDP_Per_Capita,17469.1671548551
+541,Austria,Europe,1990,GDP_Per_Capita,27176.727625305
+542,Austria,Europe,2000,GDP_Per_Capita,51712.9494845637
+543,Azerbaijan,Europe,1990,GDP_Per_Capita,565.481859165913
+544,Azerbaijan,Europe,2000,GDP_Per_Capita,4856.82188096247
+545,Bahrain,Asia,1970,GDP_Per_Capita,8421.89365471037
+546,Bahrain,Asia,1980,GDP_Per_Capita,8950.31634408545
+547,Bahrain,Asia,1990,GDP_Per_Capita,10955.1881338375
+548,Bahrain,Asia,2000,GDP_Per_Capita,19448.1851652978
+549,Bangladesh,Asia,1970,GDP_Per_Capita,180.18018038969
+550,Bangladesh,Asia,1980,GDP_Per_Capita,256.970233054904
+551,Bangladesh,Asia,1990,GDP_Per_Capita,353.107787422518
+552,Bangladesh,Asia,2000,GDP_Per_Capita,734.878975850348
+553,Barbados,North America,1970,GDP_Per_Capita,3191.35843762632
+554,Barbados,North America,1980,GDP_Per_Capita,7910.35793537616
+555,Barbados,North America,1990,GDP_Per_Capita,11578.9071544839
+556,Barbados,North America,2000,GDP_Per_Capita,16310.4703953015
+557,Belarus,Europe,2000,GDP_Per_Capita,6416.86703886436
+558,Belarus,Europe,1990,GDP_Per_Capita,1867.96625990613
+559,Belgium,Europe,1970,GDP_Per_Capita,11851.9779454138
+560,Belgium,Europe,1980,GDP_Per_Capita,16525.9441630725
+561,Belgium,Europe,1990,GDP_Per_Capita,25248.9707855979
+562,Belgium,Europe,2000,GDP_Per_Capita,44560.788065762
+563,Belize,North America,1970,GDP_Per_Capita,1102.48412810334
+564,Belize,North America,1990,GDP_Per_Capita,3009.16170196452
+565,Belize,North America,1980,GDP_Per_Capita,2206.59470474839
+566,Benin,Africa,1980,GDP_Per_Capita,325.865073778658
+567,Benin,Africa,1990,GDP_Per_Capita,541.50366584338
+568,Benin,Africa,2000,GDP_Per_Capita,1057.4622587939
+569,Bermuda,North America,1970,GDP_Per_Capita,14058.7747633853
+570,Bermuda,North America,1980,GDP_Per_Capita,32685.440377159
+571,Bermuda,North America,1990,GDP_Per_Capita,51655.1985875287
+572,Bermuda,North America,2000,GDP_Per_Capita,71480.7549569652
+573,Bhutan,Asia,1990,GDP_Per_Capita,703.706181191921
+574,Bhutan,Asia,2000,GDP_Per_Capita,1768.74651818836
+575,Bosnia and Herzegovina,Europe,1990,GDP_Per_Capita,1131.32776396388
+576,Bosnia and Herzegovina,Europe,2000,GDP_Per_Capita,4542.31091269208
+577,Botswana,Africa,2000,GDP_Per_Capita,4938.25201007683
+578,Botswana,Africa,1970,GDP_Per_Capita,665.44278380495
+579,Botswana,Africa,1980,GDP_Per_Capita,949.117859529572
+580,Brazil,South America,1970,GDP_Per_Capita,1565.34497895037
+581,Brazil,South America,1980,GDP_Per_Capita,2549.01119419176
+582,Brazil,South America,1990,GDP_Per_Capita,3440.5229050543
+583,Brazil,South America,2000,GDP_Per_Capita,8569.90089143029
+584,Bulgaria,Europe,1970,GDP_Per_Capita,1418.14511336961
+585,Bulgaria,Europe,1990,GDP_Per_Capita,2363.88596942809
+586,Bulgaria,Europe,1980,GDP_Per_Capita,1970.59991150503
+587,Bulgaria,Europe,2000,GDP_Per_Capita,6814.09877865966
+588,Burkina Faso,Africa,1980,GDP_Per_Capita,334.11916996529
+589,Burkina Faso,Africa,1990,GDP_Per_Capita,293.779673197638
+590,Burkina Faso,Africa,2000,GDP_Per_Capita,601.456763013935
+591,Burundi,Africa,1970,GDP_Per_Capita,191.624535780108
+592,Burundi,Africa,1990,GDP_Per_Capita,130.764789861153
+593,Burundi,Africa,2000,GDP_Per_Capita,203.860702555646
+594,Cambodia,Asia,1990,GDP_Per_Capita,295.216087354411
+595,Cambodia,Asia,2000,GDP_Per_Capita,734.81457679204
+596,Cameroon,Africa,1990,GDP_Per_Capita,1213.6375367014
+597,Cameroon,Africa,1980,GDP_Per_Capita,1081.18090050945
+598,Cameroon,Africa,2000,GDP_Per_Capita,1440.06418446298
+599,Canada,North America,1970,GDP_Per_Capita,10136.2004212476
+600,Canada,North America,1980,GDP_Per_Capita,20819.5394486805
+601,Canada,North America,1990,GDP_Per_Capita,22316.0993933454
+602,Canada,North America,2000,GDP_Per_Capita,40918.8506604706
+603,Central African Republic,Africa,1970,GDP_Per_Capita,427.819918221489
+604,Central African Republic,Africa,1990,GDP_Per_Capita,536.590489536436
+605,Central African Republic,Africa,1980,GDP_Per_Capita,354.428797751576
+606,Chad,Africa,1990,GDP_Per_Capita,217.855613738598
+607,Chad,Africa,2000,GDP_Per_Capita,891.107108010156
+608,Chile,South America,1970,GDP_Per_Capita,2043.00848242906
+609,Chile,South America,1980,GDP_Per_Capita,1874.57596684439
+610,Chile,South America,1990,GDP_Per_Capita,5012.33914948986
+611,Chile,South America,2000,GDP_Per_Capita,10240.8912464749
+612,Colombia,South America,1970,GDP_Per_Capita,1534.11250454722
+613,Colombia,South America,1980,GDP_Per_Capita,1739.40394710966
+614,Colombia,South America,1990,GDP_Per_Capita,2649.55637550275
+615,Colombia,South America,2000,GDP_Per_Capita,5244.35326618386
+616,Comoros,Africa,1980,GDP_Per_Capita,992.3987717222
+617,Comoros,Africa,1990,GDP_Per_Capita,881.006045254275
+618,Costa Rica,North America,1970,GDP_Per_Capita,2192.8405357406
+619,Costa Rica,North America,1980,GDP_Per_Capita,2166.56816750248
+620,Costa Rica,North America,1990,GDP_Per_Capita,3653.69416393967
+621,Costa Rica,North America,2000,GDP_Per_Capita,6737.86075358885
+622,Croatia,Europe,1990,GDP_Per_Capita,5130.78387565194
+623,Croatia,Europe,2000,GDP_Per_Capita,14450.5966501273
+624,Cuba,North America,1970,GDP_Per_Capita,2003.55881299132
+625,Cuba,North America,1980,GDP_Per_Capita,2567.15077740449
+626,Cuba,North America,1990,GDP_Per_Capita,2562.29983232301
+627,Cuba,North America,2000,GDP_Per_Capita,5501.99256681513
+628,Cyprus,Europe,1970,GDP_Per_Capita,3960.61732480635
+629,Cyprus,Europe,1980,GDP_Per_Capita,9015.38048315057
+630,Cyprus,Europe,1990,GDP_Per_Capita,15282.9843630321
+631,Cyprus,Europe,2000,GDP_Per_Capita,32107.3204482557
+632,Denmark,Europe,1970,GDP_Per_Capita,9771.99729280011
+633,Denmark,Europe,1980,GDP_Per_Capita,21895.4303252995
+634,Denmark,Europe,1990,GDP_Per_Capita,33452.8293346403
+635,Denmark,Europe,2000,GDP_Per_Capita,58128.3074828727
+636,Djibouti,Africa,1990,GDP_Per_Capita,729.905418297748
+637,Dominica,North America,1970,GDP_Per_Capita,756.081224144109
+638,Dominica,North America,1990,GDP_Per_Capita,4385.99454102993
+639,Dominica,North America,2000,GDP_Per_Capita,6661.46504737997
+640,Dominica,North America,1980,GDP_Per_Capita,1365.26957155442
+641,Dominican Republic,North America,1970,GDP_Per_Capita,1078.19014826014
+642,Dominican Republic,North America,1990,GDP_Per_Capita,2599.13569883882
+643,Dominican Republic,North America,2000,GDP_Per_Capita,4982.45897288324
+644,Ecuador,South America,1970,GDP_Per_Capita,1788.37347854021
+645,Ecuador,South America,1980,GDP_Per_Capita,1359.83530171099
+646,Ecuador,South America,1990,GDP_Per_Capita,1581.96722764321
+647,Ecuador,South America,2000,GDP_Per_Capita,4240.70259271564
+648,El Salvador,North America,1970,GDP_Per_Capita,397.284989198506
+649,El Salvador,North America,1980,GDP_Per_Capita,957.163386868429
+650,El Salvador,North America,1990,GDP_Per_Capita,1904.87489457873
+651,El Salvador,North America,2000,GDP_Per_Capita,2889.68523217474
+652,Equatorial Guinea,Africa,1980,GDP_Per_Capita,307.805731680396
+653,Equatorial Guinea,Africa,1990,GDP_Per_Capita,1400.08148204354
+654,Equatorial Guinea,Africa,2000,GDP_Per_Capita,14398.772796858
+655,Eritrea,Africa,1990,GDP_Per_Capita,341.280821275031
+656,Estonia,Europe,1990,GDP_Per_Capita,4106.77890039548
+657,Estonia,Europe,2000,GDP_Per_Capita,14717.8507243283
+658,Ethiopia,Africa,1990,GDP_Per_Capita,122.379648362907
+659,Ethiopia,Africa,2000,GDP_Per_Capita,324.984264030032
+660,Fiji,Oceania,1970,GDP_Per_Capita,1621.64961358058
+661,Fiji,Oceania,1980,GDP_Per_Capita,1530.5655947211
+662,Fiji,Oceania,1990,GDP_Per_Capita,2351.72736182033
+663,Fiji,Oceania,2000,GDP_Per_Capita,3184.67556987453
+664,Finland,Europe,1970,GDP_Per_Capita,9308.35319555015
+665,Finland,Europe,1980,GDP_Per_Capita,23971.7177849422
+666,Finland,Europe,1990,GDP_Per_Capita,26176.5011397258
+667,Finland,Europe,2000,GDP_Per_Capita,47291.6401256462
+668,France,Europe,1970,GDP_Per_Capita,11213.3410444152
+669,France,Europe,1980,GDP_Per_Capita,17746.7362849023
+670,France,Europe,1990,GDP_Per_Capita,24754.1132026642
+671,France,Europe,2000,GDP_Per_Capita,41899.1874909368
+672,Gabon,Africa,1990,GDP_Per_Capita,4160.67532351556
+673,Georgia,Europe,1990,GDP_Per_Capita,670.284743401535
+674,Georgia,Europe,2000,GDP_Per_Capita,2937.9894953786
+675,Germany,Europe,1970,GDP_Per_Capita,11311.0552601663
+676,Germany,Europe,1980,GDP_Per_Capita,17728.1208007552
+677,Germany,Europe,1990,GDP_Per_Capita,26903.1635964241
+678,Germany,Europe,2000,GDP_Per_Capita,41810.9853959123
+679,Ghana,Africa,1970,GDP_Per_Capita,548.919686701011
+680,Ghana,Africa,1990,GDP_Per_Capita,853.736041551079
+681,Ghana,Africa,2000,GDP_Per_Capita,1378.1384996456
+682,Greece,Europe,1970,GDP_Per_Capita,5925.87027528106
+683,Greece,Europe,1980,GDP_Per_Capita,7535.22389986922
+684,Greece,Europe,1990,GDP_Per_Capita,13162.8695482838
+685,Greece,Europe,2000,GDP_Per_Capita,29847.6317918291
+686,Grenada,North America,1970,GDP_Per_Capita,524.12067978496
+687,Grenada,North America,1980,GDP_Per_Capita,2160.95754536686
+688,Grenada,North America,1990,GDP_Per_Capita,3556.4789487352
+689,Guatemala,North America,1970,GDP_Per_Capita,888.694590407232
+690,Guatemala,North America,1980,GDP_Per_Capita,834.737964753724
+691,Guatemala,North America,1990,GDP_Per_Capita,1401.89277232373
+692,Guatemala,North America,2000,GDP_Per_Capita,2604.2438916029
+693,Guinea,Africa,1980,GDP_Per_Capita,580.497668054472
+694,Guinea,Africa,1990,GDP_Per_Capita,581.220383594434
+695,Guinea,Africa,2000,GDP_Per_Capita,670.261253521271
+696,Guyana,South America,1970,GDP_Per_Capita,1070.70784507112
+697,Guyana,South America,1980,GDP_Per_Capita,805.626878086742
+698,Guyana,South America,1990,GDP_Per_Capita,1461.64108419882
+699,Guyana,South America,2000,GDP_Per_Capita,4213.814514606
+700,Haiti,North America,1970,GDP_Per_Capita,258.846618780143
+701,Haiti,North America,1980,GDP_Per_Capita,439.048159529233
+702,Haiti,North America,1990,GDP_Per_Capita,828.740003708947
+703,Haiti,North America,2000,GDP_Per_Capita,1165.76760339272
+704,Honduras,North America,1970,GDP_Per_Capita,733.333985168464
+705,Honduras,North America,1980,GDP_Per_Capita,1254.49063338731
+706,Honduras,North America,1990,GDP_Per_Capita,999.028905143754
+707,Hungary,Europe,1970,GDP_Per_Capita,1537.00675656707
+708,Hungary,Europe,1980,GDP_Per_Capita,3080.90068610767
+709,Hungary,Europe,1990,GDP_Per_Capita,4598.08961592319
+710,Hungary,Europe,2000,GDP_Per_Capita,13095.692926302
+711,Iceland,Europe,1970,GDP_Per_Capita,7580.10713702793
+712,Iceland,Europe,1980,GDP_Per_Capita,22417.5047035396
+713,Iceland,Europe,1990,GDP_Per_Capita,31003.1139287028
+714,Iceland,Europe,2000,GDP_Per_Capita,41262.2841805283
+715,India,Asia,1970,GDP_Per_Capita,223.210402161877
+716,India,Asia,1980,GDP_Per_Capita,356.818417646233
+717,India,Asia,1990,GDP_Per_Capita,443.816554757713
+718,India,Asia,2000,GDP_Per_Capita,1074.8504934395
+719,Indonesia,Asia,1970,GDP_Per_Capita,413.744315432422
+720,Indonesia,Asia,1980,GDP_Per_Capita,660.498131418557
+721,Indonesia,Asia,1990,GDP_Per_Capita,776.199465493106
+722,Indonesia,Asia,2000,GDP_Per_Capita,2384.02373171863
+723,Iraq,Asia,1970,GDP_Per_Capita,1210.69454343411
+724,Iraq,Asia,1990,GDP_Per_Capita,365.636436943613
+725,Iraq,Asia,2000,GDP_Per_Capita,928.956911322696
+726,Ireland,Europe,1970,GDP_Per_Capita,5466.32602221096
+727,Ireland,Europe,1980,GDP_Per_Capita,11266.9966380681
+728,Ireland,Europe,1990,GDP_Per_Capita,24519.5846909544
+729,Ireland,Europe,2000,GDP_Per_Capita,52334.7032951196
+730,Israel,Asia,1970,GDP_Per_Capita,5738.68833349001
+731,Israel,Asia,1980,GDP_Per_Capita,10654.6610010228
+732,Israel,Asia,1990,GDP_Per_Capita,19546.8730697326
+733,Israel,Asia,2000,GDP_Per_Capita,28883.3441296848
+734,Italy,Europe,1970,GDP_Per_Capita,7021.0185725566
+735,Italy,Europe,1980,GDP_Per_Capita,16374.5530647854
+736,Italy,Europe,1990,GDP_Per_Capita,21985.8790208141
+737,Italy,Europe,2000,GDP_Per_Capita,36786.5240549018
+738,Jamaica,North America,1970,GDP_Per_Capita,1431.99533688295
+739,Jamaica,North America,2000,GDP_Per_Capita,4452.12123985948
+740,Jamaica,North America,1980,GDP_Per_Capita,2127.26391868099
+741,Jamaica,North America,1990,GDP_Per_Capita,2206.08628710569
+742,Japan,Asia,1970,GDP_Per_Capita,9035.306132493
+743,Japan,Asia,1980,GDP_Per_Capita,24782.167099641
+744,Japan,Asia,1990,GDP_Per_Capita,32447.2720193752
+745,Japan,Asia,2000,GDP_Per_Capita,41286.4178904505
+746,Jordan,Asia,1970,GDP_Per_Capita,1496.53154864563
+747,Jordan,Asia,1980,GDP_Per_Capita,1285.82336855394
+748,Jordan,Asia,1990,GDP_Per_Capita,1697.52139260954
+749,Jordan,Asia,2000,GDP_Per_Capita,3618.89262682576
+750,Kazakhstan,Asia,1990,GDP_Per_Capita,1758.75947420768
+751,Kazakhstan,Asia,2000,GDP_Per_Capita,7030.00201995031
+752,Kenya,Africa,1990,GDP_Per_Capita,598.9884326645
+753,Kenya,Africa,2000,GDP_Per_Capita,1049.12178759176
+754,Kenya,Africa,1980,GDP_Per_Capita,647.317253712136
+755,Kiribati,Oceania,1970,GDP_Per_Capita,568.337278622399
+756,Kiribati,Oceania,1980,GDP_Per_Capita,497.800428776169
+757,Kiribati,Oceania,1990,GDP_Per_Capita,887.585154254196
+758,Kiribati,Oceania,2000,GDP_Per_Capita,1063.8786056883
+759,Kuwait,Asia,1970,GDP_Per_Capita,17524.8720502155
+760,Kuwait,Asia,1980,GDP_Per_Capita,11001.8180344531
+761,Kuwait,Asia,1990,GDP_Per_Capita,16045.0362815823
+762,Kuwait,Asia,2000,GDP_Per_Capita,37905.9017072373
+763,Latvia,Europe,1990,GDP_Per_Capita,3104.92295381771
+764,Latvia,Europe,2000,GDP_Per_Capita,12422.4284295482
+765,Lebanon,Asia,1970,GDP_Per_Capita,1774.54981266228
+766,Lebanon,Asia,1990,GDP_Per_Capita,4002.09466351708
+767,Lesotho,Africa,2000,GDP_Per_Capita,411.33117186455
+768,Lesotho,Africa,1970,GDP_Per_Capita,229.955256969008
+769,Lesotho,Africa,1990,GDP_Per_Capita,326.7891930279
+770,Lesotho,Africa,1980,GDP_Per_Capita,275.430090104764
+771,Liberia,Africa,1980,GDP_Per_Capita,502.087105842441
+772,Liberia,Africa,2000,GDP_Per_Capita,295.76964896368
+773,Libya,Africa,1970,GDP_Per_Capita,10057.9446744127
+774,Libya,Africa,1980,GDP_Per_Capita,6551.44456220239
+775,Libya,Africa,1990,GDP_Per_Capita,6490.40607487936
+776,Libya,Africa,2000,GDP_Per_Capita,9560.80380767523
+777,Liechtenstein,Europe,1990,GDP_Per_Capita,90341.7462517988
+778,Liechtenstein,Europe,2000,GDP_Per_Capita,158755.600890282
+779,Lithuania,Europe,1990,GDP_Per_Capita,3019.24648701247
+780,Lithuania,Europe,2000,GDP_Per_Capita,11755.0791163584
+781,Luxembourg,Europe,1970,GDP_Per_Capita,15201.3401607755
+782,Luxembourg,Europe,1980,GDP_Per_Capita,25221.5888532114
+783,Luxembourg,Europe,1990,GDP_Per_Capita,50987.1617574253
+784,Luxembourg,Europe,2000,GDP_Per_Capita,108962.506590355
+785,Madagascar,Africa,1970,GDP_Per_Capita,377.175629193393
+786,Madagascar,Africa,1990,GDP_Per_Capita,274.630334633781
+787,Madagascar,Africa,2000,GDP_Per_Capita,455.407373684564
+788,Malawi,Africa,1990,GDP_Per_Capita,244.606166448788
+789,Malawi,Africa,1970,GDP_Per_Capita,305.209195240582
+790,Malawi,Africa,1980,GDP_Per_Capita,312.207068932962
+791,Malawi,Africa,2000,GDP_Per_Capita,432.978243049431
+792,Malaysia,Asia,1970,GDP_Per_Capita,1647.63107389894
+793,Malaysia,Asia,1980,GDP_Per_Capita,2282.47025147258
+794,Malaysia,Asia,1990,GDP_Per_Capita,4411.44164789795
+795,Malaysia,Asia,2000,GDP_Per_Capita,8343.30254803955
+796,Maldives,Asia,1970,GDP_Per_Capita,527.032644800106
+797,Maldives,Asia,1980,GDP_Per_Capita,1135.03935383333
+798,Maldives,Asia,1990,GDP_Per_Capita,3007.51147395971
+799,Maldives,Asia,2000,GDP_Per_Capita,6719.33026777068
+800,Mali,Africa,1980,GDP_Per_Capita,257.203125279719
+801,Mali,Africa,1990,GDP_Per_Capita,315.055891465811
+802,Malta,Europe,1970,GDP_Per_Capita,3153.36305791715
+803,Malta,Europe,1980,GDP_Per_Capita,6092.94325420388
+804,Malta,Europe,1990,GDP_Per_Capita,9756.30575720589
+805,Malta,Europe,2000,GDP_Per_Capita,20928.4734220958
+806,Marshall Islands,Oceania,1970,GDP_Per_Capita,834.38356740664
+807,Marshall Islands,Oceania,1980,GDP_Per_Capita,1633.30168044812
+808,Marshall Islands,Oceania,1990,GDP_Per_Capita,2143.327413902
+809,Marshall Islands,Oceania,2000,GDP_Per_Capita,2402.24968344558
+810,Mauritania,Africa,1990,GDP_Per_Capita,757.809078360693
+811,Mauritania,Africa,2000,GDP_Per_Capita,1418.94082542364
+812,Mauritius,Africa,1970,GDP_Per_Capita,1378.70679092182
+813,Mauritius,Africa,1980,GDP_Per_Capita,2102.27611139463
+814,Mauritius,Africa,1990,GDP_Per_Capita,3762.64477343761
+815,Mauritius,Africa,2000,GDP_Per_Capita,7132.64423296455
+816,Mexico,North America,1970,GDP_Per_Capita,2594.31079399794
+817,Mexico,North America,1980,GDP_Per_Capita,3173.0151395039
+818,Mexico,North America,1990,GDP_Per_Capita,6230.69720074254
+819,Mexico,North America,2000,GDP_Per_Capita,8321.85985639121
+820,Mongolia,Asia,1970,GDP_Per_Capita,245.636453972012
+821,Mongolia,Asia,1980,GDP_Per_Capita,815.531827321245
+822,Mongolia,Asia,1990,GDP_Per_Capita,519.422395534993
+823,Mongolia,Asia,2000,GDP_Per_Capita,1993.07465730398
+824,Montenegro,Europe,2000,GDP_Per_Capita,6589.38195455114
+825,Montenegro,Europe,1990,GDP_Per_Capita,2806.66803586126
+826,Morocco,Africa,1970,GDP_Per_Capita,974.622222908292
+827,Morocco,Africa,1980,GDP_Per_Capita,1110.83539769633
+828,Morocco,Africa,1990,GDP_Per_Capita,1481.72619025499
+829,Morocco,Africa,2000,GDP_Per_Capita,2965.34572190605
+830,Mozambique,Africa,1970,GDP_Per_Capita,573.844246153663
+831,Mozambique,Africa,1980,GDP_Per_Capita,273.153975907292
+832,Mozambique,Africa,1990,GDP_Per_Capita,344.701780596292
+833,Mozambique,Africa,2000,GDP_Per_Capita,531.026967161011
+834,Myanmar,Asia,1980,GDP_Per_Capita,149.09946997578
+835,Myanmar,Asia,1990,GDP_Per_Capita,158.067611231893
+836,Myanmar,Asia,2000,GDP_Per_Capita,730.232016907837
+837,Namibia,Africa,2000,GDP_Per_Capita,4292.34326640643
+838,Namibia,Africa,1990,GDP_Per_Capita,2034.85734345299
+839,Nauru,Oceania,2000,GDP_Per_Capita,5300.80926734442
+840,Nauru,Oceania,1990,GDP_Per_Capita,3570.95100207223
+841,Nauru,Oceania,1970,GDP_Per_Capita,5034.02706823436
+842,Nepal,Asia,1970,GDP_Per_Capita,130.418173774992
+843,Nepal,Asia,1980,GDP_Per_Capita,184.10896276005
+844,Nepal,Asia,1990,GDP_Per_Capita,222.874218169444
+845,Nepal,Asia,2000,GDP_Per_Capita,524.639223534909
+846,Netherlands,Europe,1970,GDP_Per_Capita,12796.9951509961
+847,Netherlands,Europe,1980,GDP_Per_Capita,17741.1474101487
+848,Netherlands,Europe,1990,GDP_Per_Capita,27859.1777558115
+849,Netherlands,Europe,2000,GDP_Per_Capita,52492.382474924
+850,New Zealand,Oceania,1970,GDP_Per_Capita,6681.66455326576
+851,New Zealand,Oceania,1980,GDP_Per_Capita,13388.5657831411
+852,New Zealand,Oceania,1990,GDP_Per_Capita,15007.6322322763
+853,New Zealand,Oceania,2000,GDP_Per_Capita,28207.7422218362
+854,Nicaragua,North America,1970,GDP_Per_Capita,920.533181079436
+855,Nicaragua,North America,1980,GDP_Per_Capita,830.254358127983
+856,Nicaragua,North America,1990,GDP_Per_Capita,958.406927195637
+857,Nicaragua,North America,2000,GDP_Per_Capita,1438.09074581137
+858,Niger,Africa,1980,GDP_Per_Capita,372.655784973717
+859,Niger,Africa,1990,GDP_Per_Capita,239.908480384252
+860,Niger,Africa,2000,GDP_Per_Capita,449.456664316869
+861,Nigeria,Africa,1980,GDP_Per_Capita,2761.68581658871
+862,Nigeria,Africa,2000,GDP_Per_Capita,1863.90823340049
+863,Norway,Europe,1970,GDP_Per_Capita,11462.3668360275
+864,Norway,Europe,1980,GDP_Per_Capita,24280.1023964887
+865,Norway,Europe,1990,GDP_Per_Capita,34786.7071923354
+866,Norway,Europe,2000,GDP_Per_Capita,79969.4396922595
+867,Oman,Asia,1980,GDP_Per_Capita,5408.03010439109
+868,Oman,Asia,1990,GDP_Per_Capita,7711.08050304575
+869,Oman,Asia,2000,GDP_Per_Capita,20557.3141468901
+870,Pakistan,Asia,1970,GDP_Per_Capita,333.270354587264
+871,Pakistan,Asia,1980,GDP_Per_Capita,439.689046706567
+872,Pakistan,Asia,1990,GDP_Per_Capita,519.58873206552
+873,Pakistan,Asia,2000,GDP_Per_Capita,880.326719998429
+874,Palau,Oceania,2000,GDP_Per_Capita,7494.32221433641
+875,Palau,Oceania,1990,GDP_Per_Capita,6414.70381776977
+876,Panama,North America,1970,GDP_Per_Capita,1690.80338005292
+877,Panama,North America,1980,GDP_Per_Capita,2585.9842632056852
+878,Panama,North America,1990,GDP_Per_Capita,3955.34402368915
+879,Panama,North America,2000,GDP_Per_Capita,7618.43844917447
+880,Papua New Guinea,Oceania,1970,GDP_Per_Capita,1263.70101726545
+881,Papua New Guinea,Oceania,1990,GDP_Per_Capita,975.408315661901
+882,Papua New Guinea,Oceania,2000,GDP_Per_Capita,1578.96843960642
+883,Paraguay,South America,1970,GDP_Per_Capita,1303.10960645527
+884,Paraguay,South America,1980,GDP_Per_Capita,1263.16253983948
+885,Paraguay,South America,1990,GDP_Per_Capita,1880.27897285301
+886,Paraguay,South America,2000,GDP_Per_Capita,3921.2050281587
+887,Peru,South America,1970,GDP_Per_Capita,733.529196821532
+888,Peru,South America,1980,GDP_Per_Capita,1607.17482480915
+889,Peru,South America,1990,GDP_Per_Capita,1912.3942358544
+890,Peru,South America,2000,GDP_Per_Capita,4165.92707049917
+891,Philippines,Asia,1970,GDP_Per_Capita,662.04654328019
+892,Philippines,Asia,1990,GDP_Per_Capita,1123.16356191368
+893,Philippines,Asia,2000,GDP_Per_Capita,1893.28162262113
+894,Poland,Europe,1970,GDP_Per_Capita,1369.19923099899
+895,Poland,Europe,1980,GDP_Per_Capita,1880.16329158978
+896,Poland,Europe,1990,GDP_Per_Capita,4433.08155139153
+897,Poland,Europe,2000,GDP_Per_Capita,11405.223333635
+898,Portugal,Europe,1970,GDP_Per_Capita,2748.2078820023
+899,Portugal,Europe,1980,GDP_Per_Capita,6047.13652322054
+900,Portugal,Europe,1990,GDP_Per_Capita,12451.7781944085
+901,Portugal,Europe,2000,GDP_Per_Capita,23008.1261461732
+902,Puerto Rico,North America,1970,GDP_Per_Capita,4083.49867096539
+903,Puerto Rico,North America,1980,GDP_Per_Capita,8157.78753121678
+904,Puerto Rico,North America,1990,GDP_Per_Capita,15394.2801020442
+905,Puerto Rico,North America,2000,GDP_Per_Capita,25778.8640039327
+906,Qatar,Asia,1980,GDP_Per_Capita,15197.8750981787
+907,Qatar,Asia,1990,GDP_Per_Capita,17651.5446818047
+908,Qatar,Asia,2000,GDP_Per_Capita,60734.0626113088
+909,Romania,Europe,1980,GDP_Per_Capita,2112.55170311951
+910,Romania,Europe,1970,GDP_Per_Capita,1275.47470558659
+911,Romania,Europe,1990,GDP_Per_Capita,1631.34222044833
+912,Romania,Europe,2000,GDP_Per_Capita,8506.7704183449
+913,Russian Federation,Europe,2000,GDP_Per_Capita,8623.8036670827
+914,Russian Federation,Europe,1990,GDP_Per_Capita,3878.64558197748
+915,Rwanda,Africa,1970,GDP_Per_Capita,58.4666318310897
+916,Rwanda,Africa,1990,GDP_Per_Capita,332.656380406473
+917,Rwanda,Africa,2000,GDP_Per_Capita,564.678936026227
+918,Samoa,Oceania,1970,GDP_Per_Capita,686.392510117851
+919,Samoa,Oceania,1980,GDP_Per_Capita,670.430335521095
+920,Samoa,Oceania,1990,GDP_Per_Capita,1295.72103310604
+921,Samoa,Oceania,2000,GDP_Per_Capita,3565.14067059782
+922,Sao Tome and Principe,Africa,1980,GDP_Per_Capita,822.183581009606
+923,Sao Tome and Principe,Africa,1990,GDP_Per_Capita,942.751823102417
+924,Sao Tome and Principe,Africa,2000,GDP_Per_Capita,1054.41620063238
+925,Saudi Arabia,Asia,1990,GDP_Per_Capita,7697.27195331417
+926,Saudi Arabia,Asia,2000,GDP_Per_Capita,15064.631309859
+927,Senegal,Africa,1970,GDP_Per_Capita,697.117471767494
+928,Senegal,Africa,1980,GDP_Per_Capita,890.228990910267
+929,Senegal,Africa,1990,GDP_Per_Capita,999.223448728609
+930,Senegal,Africa,2000,GDP_Per_Capita,1318.66378158498
+931,Serbia,Europe,1990,GDP_Per_Capita,2163.86365954271
+932,Serbia,Europe,2000,GDP_Per_Capita,5874.43993537143
+933,Seychelles,Africa,1980,GDP_Per_Capita,2642.10416335793
+934,Seychelles,Africa,1990,GDP_Per_Capita,9533.93928166812
+935,Seychelles,Africa,2000,GDP_Per_Capita,9183.68380456839
+936,Sierra Leone,Africa,1970,GDP_Per_Capita,358.000475421304
+937,Sierra Leone,Africa,1980,GDP_Per_Capita,261.94213453178503
+938,Sierra Leone,Africa,1990,GDP_Per_Capita,203.28714048957
+939,Sierra Leone,Africa,2000,GDP_Per_Capita,392.006674751954
+940,Singapore,Asia,1970,GDP_Per_Capita,4122.61327055962
+941,Singapore,Asia,1980,GDP_Per_Capita,10671.8832545701
+942,Singapore,Asia,1990,GDP_Per_Capita,21754.0098450548
+943,Singapore,Asia,2000,GDP_Per_Capita,38747.1145815222
+944,Slovenia,Europe,1990,GDP_Per_Capita,11434.0979184133
+945,Slovenia,Europe,2000,GDP_Per_Capita,24621.413841575
+946,Solomon Islands,Oceania,1980,GDP_Per_Capita,532.880783049882
+947,Solomon Islands,Oceania,1990,GDP_Per_Capita,1064.80735449979
+948,Somalia,Africa,1970,GDP_Per_Capita,95.6578535613616
+949,Somalia,Africa,1980,GDP_Per_Capita,127.376288900432
+950,Somalia,Africa,2000,GDP_Per_Capita,251.371291702842
+951,South Africa,Africa,2000,GDP_Per_Capita,3241.66124019474
+952,South Africa,Africa,1970,GDP_Per_Capita,2030.75149052014
+953,South Africa,Africa,1990,GDP_Per_Capita,2926.44063688943
+954,Spain,Europe,1970,GDP_Per_Capita,5770.16140331981
+955,Spain,Europe,1980,GDP_Per_Capita,10677.1330274681
+956,Spain,Europe,1990,GDP_Per_Capita,15654.6565146925
+957,Spain,Europe,2000,GDP_Per_Capita,32037.2091902656
+958,Sri Lanka,Asia,1970,GDP_Per_Capita,276.713342906569
+959,Sri Lanka,Asia,1980,GDP_Per_Capita,485.219230306639
+960,Sri Lanka,Asia,2000,GDP_Per_Capita,1419.75003477059
+961,Sri Lanka,Asia,1990,GDP_Per_Capita,686.462577942977
+962,Suriname,South America,1970,GDP_Per_Capita,2841.63315264361
+963,Suriname,South America,1980,GDP_Per_Capita,1846.98575555732
+964,Suriname,South America,1990,GDP_Per_Capita,2491.66036552019
+965,Suriname,South America,2000,GDP_Per_Capita,7300.87435451753
+966,Sweden,Europe,1970,GDP_Per_Capita,14872.9989227747
+967,Sweden,Europe,1980,GDP_Per_Capita,25626.0545433849
+968,Sweden,Europe,1990,GDP_Per_Capita,30972.4356601415
+969,Sweden,Europe,2000,GDP_Per_Capita,46932.2156879948
+970,Switzerland,Europe,1970,GDP_Per_Capita,18281.1639658854
+971,Switzerland,Europe,1980,GDP_Per_Capita,31337.8193310986
+972,Switzerland,Europe,1990,GDP_Per_Capita,41797.9763925693
+973,Switzerland,Europe,2000,GDP_Per_Capita,72168.2506953755
+974,Tajikistan,Asia,1990,GDP_Per_Capita,173.631722008596
+975,Tajikistan,Asia,2000,GDP_Per_Capita,666.708362401642
+976,Thailand,Asia,1970,GDP_Per_Capita,637.501825567782
+977,Thailand,Asia,1980,GDP_Per_Capita,1378.29368575885
+978,Thailand,Asia,1990,GDP_Per_Capita,1841.04293314729
+979,Thailand,Asia,2000,GDP_Per_Capita,4154.18614182554
+980,Timor-Leste,Asia,2000,GDP_Per_Capita,682.172080822869
+981,Togo,Africa,1970,GDP_Per_Capita,427.714484617436
+982,Togo,Africa,1980,GDP_Per_Capita,453.873865821285
+983,Togo,Africa,1990,GDP_Per_Capita,360.519318217407
+984,Tonga,Oceania,1970,GDP_Per_Capita,605.26057668587
+985,Tonga,Oceania,1980,GDP_Per_Capita,1541.15086788847
+986,Tonga,Oceania,1990,GDP_Per_Capita,1933.35618655192
+987,Tonga,Oceania,2000,GDP_Per_Capita,3151.95031465201
+988,Trinidad and Tobago,North America,1970,GDP_Per_Capita,4367.67929273996
+989,Trinidad and Tobago,North America,1980,GDP_Per_Capita,3632.55070241628
+990,Trinidad and Tobago,North America,1990,GDP_Per_Capita,4301.26554189992
+991,Trinidad and Tobago,North America,2000,GDP_Per_Capita,14445.2140111783
+992,Tunisia,Africa,1970,GDP_Per_Capita,1230.12201758145
+993,Tunisia,Africa,1980,GDP_Per_Capita,1343.29615060732
+994,Tunisia,Africa,1990,GDP_Per_Capita,2344.00574518984
+995,Tunisia,Africa,2000,GDP_Per_Capita,4029.46120631103
+996,Turkmenistan,Asia,1990,GDP_Per_Capita,856.888554260673
+997,Turkmenistan,Asia,2000,GDP_Per_Capita,3901.67028309872
+998,Tuvalu,Oceania,1970,GDP_Per_Capita,529.470726804929
+999,Tuvalu,Oceania,1990,GDP_Per_Capita,1429.69409132325
+1000,Uganda,Africa,1980,GDP_Per_Capita,419.134773509108
+1001,Uganda,Africa,1990,GDP_Per_Capita,305.601526235194
+1002,Uganda,Africa,2000,GDP_Per_Capita,793.279606625486
+1003,Ukraine,Europe,2000,GDP_Per_Capita,2650.28029993595
+1004,United Arab Emirates,Asia,1980,GDP_Per_Capita,23443.4129024975
+1005,United Arab Emirates,Asia,1990,GDP_Per_Capita,27618.1505688275
+1006,United Arab Emirates,Asia,2000,GDP_Per_Capita,32137.1447460508
+1007,Uruguay,South America,1970,GDP_Per_Capita,2617.82511239995
+1008,Uruguay,South America,1980,GDP_Per_Capita,2777.29414303375
+1009,Uruguay,South America,1990,GDP_Per_Capita,7314.486924295
+1010,Uruguay,South America,2000,GDP_Per_Capita,9467.5352793624
+1011,Uzbekistan,Asia,1990,GDP_Per_Capita,833.560402021839
+1012,Uzbekistan,Asia,2000,GDP_Per_Capita,1501.04345640077
+1013,Vanuatu,Oceania,1970,GDP_Per_Capita,1131.32807962346
+1014,Vanuatu,Oceania,1980,GDP_Per_Capita,1073.64865217008
+1015,Zambia,Africa,1990,GDP_Per_Capita,493.70445580168
+1016,Zambia,Africa,2000,GDP_Per_Capita,1150.93892148996
+1017,Zimbabwe,Africa,2000,GDP_Per_Capita,762.297957461508
+1018,Zimbabwe,Africa,1990,GDP_Per_Capita,1340.74301023355
+1019,Zimbabwe,Africa,1980,GDP_Per_Capita,1070.46136109319
 1020,Afghanistan,Asia,1970,Birth Rate (live births per 1000),48.1
 1021,Afghanistan,Asia,2000,Birth Rate (live births per 1000),38.400000000000006
 1022,Albania,Europe,1970,Birth Rate (live births per 1000),32.5
