@@ -250,7 +250,7 @@ resource "aws_ecs_task_definition" "this" {
 
 resource "aws_ecs_service" "this" {
   cluster         = resource.aws_ecs_cluster.this.id
-  desired_count   = 1
+  desired_count   = 2
   launch_type     = "FARGATE"
   name            = "${local.example}-service"
   task_definition = resource.aws_ecs_task_definition.this.arn
